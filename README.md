@@ -5,8 +5,10 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 
 To make a submission: 
 
+- Read the [author instructions](https://www.agilelibre.com/authors)
 - Fork this repo and add your chapter, preferably in [markdown](https://daringfireball.net/projects/markdown/). Look at some existing chapters to see the style and follow it as closely as you can.
 - If you prefer, [email it to me](mailto:matt@agilescientific.com).
+- If you know about some openly licensed (preferably CC-BY) content that would work, please submit that, or just [let me know](mailto:matt@agilescientific.com). 
 - Add your bio to `bios`, your B&W hi-res headshot to `headshots`, and any figures to `figures` like `figures/yourname_fig1.png`.
 - Mark code in your chapter by indenting with 4 spaces.
 - Add a row to the table below.
