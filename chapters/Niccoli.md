@@ -2,6 +2,8 @@
 
 Matteo Niccoli
 
+> This manuscript is not ready for review yet: the notebooks are blank at the moment; the IPywidget functionality has changed and needs to be updated. &mdash; MN
+
 This article describes the ongoing process of building an interactive colormap web app to generate a modified gray scale for fault interpretation in seismic sections. The standard gray scale is already quite effective because it highlights low amplitude events and aids in the recognition of subtle terminations [1]; however, one way to further enhance it is to dynamically vary the Lightness contrast (intended as the Lightness profile gradient) to be high in the central portion of the colormap and low at the ends. This can be accomplished in Hue-Saturation-Lightness color space using a logistic sigmoid curve [2] for Lightness, setting Hue and Saturation to zero, and then converting from HSL to RGB. 
 
 There are two stages in the app creation process: developing the individual elements separately (the sigmoid function, plotting routines, et cetera), and assembling them into a user interface. The code below shows the function that creates the sigmoid Lightness curve and how it is called.
