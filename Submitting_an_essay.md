@@ -23,3 +23,5 @@ This page explains how to make a submission.
 - If you provide a raster, PNG is better than JPG
 - If you provide a raster, please make it very large: at least 4000 pixels across.
 - If you provide a raster, please provide the 'raw' image with no annotation as well as a 'complete' figure with the annotation. I usually end up redrawing figures with the book's fonts etc, and this is easier with a blank slate.
+
+![Figure sizes](https://www.dropbox.com/s/uvzd2pwxnr0zjz0/52T_figures.png?raw=1)
