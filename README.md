@@ -5,16 +5,20 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 
 **Authors** — to make a submission:
 
-- Read the [author instructions](https://www.agilelibre.com/authors)
-- Fork this repo and add your chapter, preferably in [markdown](https://daringfireball.net/projects/markdown/). Look at some existing chapters to see the style and follow it as closely as you can.
-  * Chapters should be about 600 words. A figure or two is OK, and code is more than welcome.
+- The deadline for submissions is 30 June 2017.
+- Read the [author instructions](https://www.agilelibre.com/authors).
+- Look at some existing chapters to see the style and follow it as closely as you can.
+- Chapters should be about 600 words. A figure or two is OK, and code is more than welcome.
+- [Fork this repo](https://help.github.com/articles/fork-a-repo/) and add your chapter, preferably in [markdown](https://daringfireball.net/projects/markdown/). 
 - If you prefer, [email it to me](mailto:matt@agilescientific.com).
 - If you know about some openly licensed (preferably CC-BY) content that would work, please submit that, or just [let me know](mailto:matt@agilescientific.com).
 - Add your bio to `bios`, your B&W hi-res headshot to `headshots`, and any figures to `figures` like `figures/yourname_fig1.png`.
 - Mark code in your chapter by indenting with 4 spaces.
 - Add a row to the table below.
+- [Make a pull request](https://help.github.com/articles/about-pull-requests/) back to this repo.
 
-**Reviewers**, please see [Reviewing submissions](Reviewing_submissions.md):
+
+**Reviewers**, please see [Reviewing submissions](Reviewing_submissions.md).
 
 
 ## Submissions for review
