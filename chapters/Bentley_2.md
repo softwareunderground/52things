@@ -1,61 +1,24 @@
-I am one of the only people in my research group with much of a programming
-background. Accordingly, I have spent quite a lot of time helping other people
-with relatively simple scripts for data analysis. A good example of this was a
-piece of equipment that reads various chemical abundances in gas. Unfortunately,
-it has no spatial awareness, which means that doing 'drive-around' surveys and
-sampling as we travel is not something that can be done. Fortunately, one can
-get GPS-based location loggers that can be easily put into a car. Even more
-fortunately, their sampling rates are very similar.
+# Best Practices are not (always) the best approach
 
-The GPS logger can give you positions at a particlar time in a kml file (which
-is just a specialised xml file) and the equipment outputs space-delimited data.
-So one could, in theory open both up and match the time of the reading and add
-a location to the space-delimited table, and from there import it into a GIS of
-some kind and plot variations in air composition. In theory, sure, but in
-practice, this is utter madness. Remember that I said that the sampling rates
-are very close? The analytical equipment sometimes takes two readings in a
-second, and other times skips a second. The GPS is strictly once a second. So
-to do this manually you would not just be able to drop a block of GPS locations
-in a couple of new columns at the end of the data file.
+I am one of the only people in my research group with much of a programming background. Accordingly, I have spent quite a lot of time helping other people with relatively simple scripts for data analysis. This leads to some interesting observations from time to time. A good example of this is some processing scripts that I wrote for a piece of equipment that reads various chemical abundances in gas (in parts per million). Unfortunately, it has no spatial awareness, which means that doing 'drive-around' surveys and sampling as we travel is not something that can be done out of the box. Fortunately, one can obtain a GPS-based location logger that can be easily put into a car and pull out the location at a specific time. Even more fortunately, their sampling rates are about the same, so one can match the timestamps at about second-level accuracy to put a location on a given reading.
 
-You need to write a bit of software. So, my colleagues turned to me. This is
-pretty simple, low-level stuff to actually do: find matching times in two
-different files, and add the data from one file to the end of that row. My
-weapon of choice for something like this is the python module `pandas`, since
-it deals very nicely with tabular data. So I wrote a bit of code that did the
-glueing:, the meat of which comes down to the following pseudocode:
+Since that was the first priority, I hacked together a fairly ugly bit of code, using python and pandas to do just that. It goes against all the usual rules: the location of the file is hard-coded as a string, as are the locations to save a couple of plots and the combined data file. So you have stuff like the following:
 
-    combined = merge(df1=gps_data, df2=air_data, on_column='Time', outer_join=true)
+    root = 'C:/Users/mtb/Documents/GitHub/gas_processor/'
+    data_root = root + '20170313/data/'
+    picarro_file = data_root + '20170313_readings.csv'
+    gps_file = data_root + '20170313_gps.csv'
 
-So, now we have script that can glue our two different datafiles together. If
-we were putting all of this stuff into a database, this would probably be easier,
-but a simple utility script like this does not take too long to set up. There
-are still a few bugbears though: the location data is in a kml, and there is a
-new datafile created every hour or so.
+Clearly this is bad design. But my colleague was perfectly happy with this (partly because it means that he does not have to manually match a reading to a location).
 
-So, turning back to python, we can pull out specific tags from an xml file
-(which will work on a kml as well). These can then be written to a file and
-passed onto the script. This same script, with a little tweaking, can combine
-multiple kml files. So if we ignore the kml-specific tag extraction, we can
-use it to combine our data files as well.
+I then wrote a second script, to simplify the extraction of the locations from the kml, and combine sequential data files (since the equipment creates a new log every hour or so). These would then be used as input to the first script, and save a bit of mucking about in Excel and copy-pasting data. I decided to push the boat out a little and made it much better, with a series of command line arguments that could stitch an arbitrary number of arbitrarily located files:
 
-After a day or two of programmer time, we have a much quicker and easier
-workflow than trying to extract tags and match timings manually:
+    usage: process_data.py [--kml] [-o O] [-t TIME_ADJUST] files [files ...]
 
-1. Get the datafiles off the equipment.
-2. Get the kml of the track(s) from the GPS logger
-3. Pass the datafiles through the combiner.
-4. Pass the kml files through the combiner.
-5. Give both the locations and the combined datafiles to the glueing script.
-6. Take the glued information into whatever spatial analysis tool you favour.
+`--kml` is a boolean means that we need to extract points from a kml file (defaults to false), `-o` is the location to save the combined file to, `-t` is to account for a delay in gas getting to the sensor as one drives, and `files` are the files to be combined.
 
-So why am I telling you this? Because there are huge amounts of these little
-problems in (geo)science. My colleagues are going to have a hugely easier time
-processing and analysing this data now. It is the sort of thing that could be
-done by pretty much any decent programmer (I mean, I managed it). But they are
-not programmers; they do chemical stuff and groundwater stuff. Having someone
-around who can spend a day writing code that solves the little niggles in the
-data nalytics process is a good second place to trying to teach people to code
-for themselves. And it might not be the most amazing code, but it works for
-what they need to do, and will get them on their way faster, which I think is
-good enough for me, and, more importantly, them.
+Despite being "better", my colleague preferred the approach of the other script, because passing things on a command line is something completely foreign to them. They preferred to just go and edit the source file to point at their data, because it was more obvious what was being changed. They also did not need to think about relative locations of data files and the script.
+
+Partly this is something that can be addressed by education, and after a bit of a lesson in how the command line works, they can now use the script. But it might still be better for their use-case to just edit it to something less sophisticated and hard-code the locations of things in again.
+
+If you are writing stuff for non-technical users, their approach and way of thinking about a given piece of software might be markedly different to your own. Something that is emphasised in proper software development courses is usability testing. Even, possibly especially, when writing software that will be used by non-programming colleagues that is intended to solve a specific problem that is unlikely to have broader outside use (taking two datafiles from two specific pieces of equipment and mashing them together to enable further analysis, for example), we need to make sure that they are comfortable with using it. And if that means that you need to let some best practices slide, I think that that is an acceptable compromise in places.
