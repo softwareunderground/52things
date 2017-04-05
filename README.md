@@ -3,7 +3,7 @@
 
 This is a second attempt at collecting 52 essays about geocomputing. [Here's the original call for papers](https://agilescientific.com/blog/2014/12/29/geocomputing-call-for-papers), from a little over 2 years ago. This time we can do it!
 
-To make a submission:
+**Authors** — to make a submission:
 
 - Read the [author instructions](https://www.agilelibre.com/authors)
 - Fork this repo and add your chapter, preferably in [markdown](https://daringfireball.net/projects/markdown/). Look at some existing chapters to see the style and follow it as closely as you can.
@@ -14,10 +14,7 @@ To make a submission:
 - Mark code in your chapter by indenting with 4 spaces.
 - Add a row to the table below.
 
-To review:
-
-- Leave your name in the table below.
-- Add an issue, tagging the author and giving the title, and list your remarks about the manuscript in the issue body. Add one issue per manuscript you review.
+**Reviewers**, please see [Reviewing submissions](Reviewing_submissions.md):
 
 
 ## Submissions for review
