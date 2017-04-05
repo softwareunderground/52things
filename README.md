@@ -27,3 +27,27 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 | Alberto Rusic    | I hate computers 2                  |             |
 | Hassan Sabirin   | Quality checking spatial data       |             |
 | Martin Storey    | De profundis: of well depth         |             |
+
+
+## Wish list
+
+If you have a topic you wish someone would write about, please add it here: 
+
+- Drop everything and learn X (Julia? Clojure?).
+- Only a quantum computer can do geology.
+- Data standards, lol.
+- Geocomputing in the year 2028.
+- Thank you for the state-of-the-art processing, I will now proceed to interpret it incorrectly.
+- Units -sigh- let's start using pint (like metpy), astropy, or _something_.
+- How tech ubiquity is changing geoscientific observation.
+- Teaching technology (-cough- geo_leeman)
+
+
+## Promises, promises
+
+If you want to tell others what you're writing on, or find a co-author!, please add your topic here: 
+
+| Author           | Topic or working title                            |
+| ---------------- | ------------------------------------------------- |
+| Matt Hall        | Hackathons and similar events                     |
+
