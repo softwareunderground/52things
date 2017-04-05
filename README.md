@@ -9,7 +9,7 @@ To make a submission:
 - Fork this repo and add your chapter, preferably in [markdown](https://daringfireball.net/projects/markdown/). Look at some existing chapters to see the style and follow it as closely as you can.
   * Chapters should be about 600 words. A figure or two is OK, and code is more than welcome.
 - If you prefer, [email it to me](mailto:matt@agilescientific.com).
-- If you know about some openly licensed (preferably CC-BY) content that would work, please submit that, or just [let me know](mailto:matt@agilescientific.com). 
+- If you know about some openly licensed (preferably CC-BY) content that would work, please submit that, or just [let me know](mailto:matt@agilescientific.com).
 - Add your bio to `bios`, your B&W hi-res headshot to `headshots`, and any figures to `figures` like `figures/yourname_fig1.png`.
 - Mark code in your chapter by indenting with 4 spaces.
 - Add a row to the table below.
@@ -25,6 +25,7 @@ To review:
 | Author           | Working title                       | Reviewed by |
 | ---------------- | ----------------------------------- | ----------- |
 | Martin Bentley   | In praise of small tools            |             |
+| Martin Bentley   | Best Practices are not the best...  |             |
 | Austin Bingham   | Domain-driven design in geocomputing|             |
 | Ben Bougher      | Am = d: a linear algebra approach...|             |
 | Jesper Dramsch   | General purpose GPU programming     |             |
