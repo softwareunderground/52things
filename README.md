@@ -50,6 +50,5 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Author           | Topic or working title                            |
 | ---------------- | ------------------------------------------------- |
 | Matt Hall        | Hackathons and similar events                     |
-| ---------------- | ------------------------------------------------- |
 | Justin Gosses    | I see JavaScript in your future                   |
 
