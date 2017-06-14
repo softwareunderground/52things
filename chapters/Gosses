@@ -1,0 +1,59 @@
+Outline copied in from notes. 
+
+Will rewrite soon.
+
+Three separate ideaa here.
+
+    - Ideas
+        - The future of JavaScript, the browser, and you
+        - Uncertainty in JavaScript
+        - What JavaScript Can Teach You
+            - It was written in a very short time
+            - It misbehaves
+            - It is easy to make the argument that other languages are better
+            - Because browser
+            - JavaApplets & plugins
+            - JavaScript is locked in more than Microsoft, but maybe it too can lose control?
+            - Asm.js
+            - WebAssembly
+            - Computing moves to phones, to cloud, to browser
+            - Graphics and processing always catch up
+            - Certain things faster now due to GPU
+            - Browser has JS locked in, and mind share
+            - Node.js mindshare example
+            - What is future? Engineering, anthropology, economics, behavioral economocs, and timing!
+        - Sharing across a new axis in oil and gas
+        - Standing on the shoulders of Giants that guy in the UK office; code sharing in large organizations
+            - Causes
+                - Giants aren't dead, as things move too fast in CS. We can use each other's work.
+                - this model works in open-source
+                    - Security
+                    - Innovation
+                    - Mind share
+                    - Eyeballs
+                - New model of who does coding with rise of analytics
+                -  More people will know how to write  code and that's only increasing
+                - Need to Raise profile of applied code geared to your data and your issues
+                    - Data centric company
+            - Benefits
+                - Increase innovation speed
+                - Reduce cycle time
+                - Know your organizations skills
+                - Make contacts, find mentors, and share skills across large organizations
+                - Cost savings
+                - Share products not just code, data visualization as a model
+                - Informal project oriented Learning
+                - Some of Benefits of open-source but intrasource faster to the table as lawyers not involved
+            - Challenges
+                - Innovation is Different model from 'best practice'.
+                - Incentives
+                    - What do you incentivize?
+                    - Incentives cause gaming
+                    - Incentives vs.culture
+                - Coding skills in data sphere cross organization but also reside in other disciplines , at margins, and completely inside.
+                    - NLP, SciKit-Learn, tensor flow, d3.js all cross many domains
+                    - Upstream vs downstream, region, explora-dev-production, disciplines
+                - Needs to both use these skills and deal with issues of groups that have and don't have skills
+                - Software, code running inside, separate, chains, etc. Changes more issue than model.
+                - Organization model, how to distribute people with skills? How does this change over time as both technology and people's skills and organizational model change
+        - Joy of side projects or the coders field trip
