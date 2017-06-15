@@ -5,28 +5,47 @@ Will rewrite soon.
 Three separate ideaa here.
 
     - Ideas
-        - The future of JavaScript, the browser, and you
-        - Uncertainty in JavaScript
+        - The future of JavaScript, the Browser, and You
+        - The Curious Case of  JavaScript
+        - Why geologists should probably learn a little JavaScript
         - What JavaScript Can Teach You
+        - JavaScript is hard to kill; You should learn a little
             - It was written in a very short time
             - It misbehaves
             - It is easy to make the argument that other languages are better
-            - Because browser
+            - But... because browser, and then later mindshare... it is very, very hard to kill
             - JavaApplets & plugins
             - JavaScript is locked in more than Microsoft, but maybe it too can lose control?
             - Asm.js
             - WebAssembly
-            - Computing moves to phones, to cloud, to browser
-            - Graphics and processing always catch up
-            - Certain things faster now due to GPU
-            - Browser has JS locked in, and mind share
             - Node.js mindshare example
-            - What is future? Engineering, anthropology, economics, behavioral economocs, and timing!
+            - Computing moves to phones, to cloud, to browser
+            - Graphics and processing always catch up. Browsers have huge institutional levels of backing
+            - Abscombs principle: any piece of code will eventually be re-written into JavaScript
+                - Apollo guidance system as example
+            - Certain things faster now due to GPU
+            - Basically
+                - 1. browser has JS locked in
+                  2. mind-share
+                  3. GPU
+            - You should learn a bit as it is what you'll use to put things on a screen if you want it to be widely used in the future.
+                - more things moving to web
+                - phones are more capable
+                    - Graphis
+                    - Processing power
+                    - AR/VR
+                    - Not everyhing has to live under your desk in a tower to be a useful computer these days.
+                - web can be desktop (steal Java's tag-line and develop once run anyway)
+                - Altair & Jupyter notebooks announcement.
+                    - It isn't all bad... maybe more of a passing back and forth and less of a fence to throw things over?
+            - What controls these things? 
+                - It isn't just Engineering also anthropology, economics, behavioral economocs, and timing!
         - Idea 2:
             - Titles:
                    - Sharing across a new axis in oil and gas
                    - Standing on the shoulders of Giants* {*cross out giants} that guy in the UK office; 
                    - Intra-source; the cheap and easy path to innovation
+                   - Intra-source; a low hanging fruit
             - Causes
                 - Giants aren't dead, as things move too fast in CS. We can use each other's work.
                 - this model works in open-source
@@ -34,11 +53,13 @@ Three separate ideaa here.
                     - Innovation
                     - Mind share
                     - Eyeballs
+                - but open-source is admittedly hard
                 - New model of who does coding with rise of analytics. 
                     - There will be a point in time when it won't be IT contractors writing the majority of a company's code.
                 - More people know how to write code the % is only increasing
                 - Need to Raise profile of applied code geared to your data and your issues
                     - Data centric company
+                    - easier than open-source
             - What
                 - Intra-source ~ internal code sharing ~ skill-based community around coding that crosses org boundaries
                 - Parts
@@ -76,4 +97,7 @@ Three separate ideaa here.
                 - Needs to both use these skills and deal with issues of groups that have and don't have skills
                 - Software, code running inside, separate, chains, etc. Changes more issue than model.
                 - Organization model, how to distribute people with skills? How does this change over time as both technology and people's skills and organizational model change
-        - Joy of side projects or the coders field trip
+        - Idea 3:
+            Title:
+                - Joy of side projects
+                - Side Projects and Geology Field Trips; A comparison
