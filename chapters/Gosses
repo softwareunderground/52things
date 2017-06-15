@@ -22,8 +22,11 @@ Three separate ideaa here.
             - Browser has JS locked in, and mind share
             - Node.js mindshare example
             - What is future? Engineering, anthropology, economics, behavioral economocs, and timing!
-        - Sharing across a new axis in oil and gas
-        - Standing on the shoulders of Giants that guy in the UK office; code sharing in large organizations
+        - Idea 2:
+            - Titles:
+                   - Sharing across a new axis in oil and gas
+                   - Standing on the shoulders of Giants* {*cross out giants} that guy in the UK office; 
+                   - Intra-source; the cheap and easy path to innovation
             - Causes
                 - Giants aren't dead, as things move too fast in CS. We can use each other's work.
                 - this model works in open-source
@@ -31,21 +34,38 @@ Three separate ideaa here.
                     - Innovation
                     - Mind share
                     - Eyeballs
-                - New model of who does coding with rise of analytics
-                -  More people will know how to write  code and that's only increasing
+                - New model of who does coding with rise of analytics. 
+                    - There will be a point in time when it won't be IT contractors writing the majority of a company's code.
+                - More people know how to write code the % is only increasing
                 - Need to Raise profile of applied code geared to your data and your issues
                     - Data centric company
+            - What
+                - Intra-source ~ internal code sharing ~ skill-based community around coding that crosses org boundaries
+                - Parts
+                    - Github/Gitlab or network of them linked across the enterprise
+                    - Way to quick understand and answer questions about the code, people writing the code, and their purposes
+                        - turn code repositories into a data product with many possible things that sit on top of it
+                    - Community & Communication strategy for making connections, sharing information, and promotion.
+                    - Possible to also share products not just code: API registries, Data visualization gallery
             - Benefits
-                - Increase innovation speed
-                - Reduce cycle time
+                - Increase innovation rate
+                - Cost savings & reduce cycle times
                 - Know your organizations skills
                 - Make contacts, find mentors, and share skills across large organizations
-                - Cost savings
-                - Share products not just code, data visualization as a model
+                - Easier to build on componets & helps break those darn silos or at least stop building them
                 - Informal project oriented Learning
-                - Some of Benefits of open-source but intrasource faster to the table as lawyers not involved
+                - A half-way step to open-source
+                    - Some of the benefits with fewer lawyers and more speed
             - Challenges
                 - Innovation is Different model from 'best practice'.
+                    - Best practice in code is less on methods and more about clarity, style, and success of end product. 
+                        - The "how" strinks in importance.
+                        - Guy at AAPG who stood up after a talk about data science and said, 
+                            - "no one should believe any of it if it can't be broken down into a simple list of variables and an equation and explained to a manager."
+                            - That guy is wrong. The whole point of data science is it is very complicated math that a human can't easily do by themselves. 
+                            - We use 3D models. Data science & data visualizations are often more testable! 
+                            - Oil and gas is only good at new things in categories where we've become accustomed to continuous and gradual change.
+                                - In other categories, like source rock or anything with well logs, we're much more resistent. 
                 - Incentives
                     - What do you incentivize?
                     - Incentives cause gaming
