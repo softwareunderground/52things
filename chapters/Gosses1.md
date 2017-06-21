@@ -1,5 +1,10 @@
-## Standing on the Shoulders of the Guy in the UK Office
+# Standing on the Shoulders of the Guy in the UK Office
  
+Justin Gosses
+
+'''
+in progress
+'''
 The phrase “If I have seen further, it is by standing on the shoulders of giants.” was written by Isaac Newton to Robert Hooke in reference to building on the work his predecessors. In science, we often think of these giants as long dead men in history books. In computer science, many of the giants are still alive.  In open-source, they are middle aged to young people you end up drinking beer with at conferences. In intra-source, they are your co-workers writing code right now, including those you’ve never met. 
  
 If there is a low hanging fruit of innovation, it might be intra-source. While open-source has proved its value in terms of better code through more eyeballs and the ability to leverage mindshare to organize development of code ecosystems without centralized control, open-source is hard for companies, and especially hard for oil and gas. Lawyers get involved. Release processes are slow, non-existent, or written for the worst-case scenario. Intra-source offers many of the benefits with increased speed and less institutional pushback. 
