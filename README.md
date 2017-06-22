@@ -29,17 +29,25 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 | Martin Storey    | De profundis: of well depth         |             |
 | John Leeman      | Hardware is Hard - Teaching Geotech |             |
 
+
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
 
+- Three ways to get started.
 - Drop everything and learn X (Julia? Clojure?).
+- Getting started in HPC in 3 easy steps.
 - Only a quantum computer can do geology.
+- Geocomputing at enterprise scale.
+- Open sourcing a corporate 
 - Data standards, lol.
 - Geocomputing in the year 2028.
+- Teaching geoscientists to code.
 - Thank you for the state-of-the-art processing, I will now proceed to interpret it incorrectly.
 - Units -sigh- let's start using pint (like metpy), astropy, or _something_.
 - How tech ubiquity is changing geoscientific observation.
+- 5 libraries for geophysicists: obspy, madagascar, simpeg, vispy, etc.
+- 5 libraries for geologists: pynoddy, qgis, pygmt, pandas/welly/striplog, etc.
 
 
 ## Promises, promises
@@ -48,5 +56,6 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 
 | Author           | Topic or working title                            |
 | ---------------- | ------------------------------------------------- |
-| Matt Hall        | Hackathons and similar events                     |
+| Matt Hall        | Hackathons and similar events / Code literacy     |
+| Matt Hall        | What's so special about geoscience?               |
 | Justin Gosses    | I see JavaScript in your future                   |
