@@ -11,7 +11,7 @@ This page explains how to make a submission.
 - If you know about some openly licensed (preferably CC-BY) content that would work, please submit that, or just [let me know](mailto:matt@agilescientific.com).
 - Add your bio to `bios`, your B&W hi-res headshot to `headshots`, and any figures to `figures` like `figures/yourname_fig1.png`.
 - Mark code in your chapter by indenting with 4 spaces.
-- Add a row to the table below.
+- Add a row to the table in [README.md](README.md).
 - [Make a pull request](https://help.github.com/articles/about-pull-requests/) back to this repo.
 
 ## A word about figures
