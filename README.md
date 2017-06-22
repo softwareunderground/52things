@@ -34,12 +34,12 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 
 If you have a topic you wish someone would write about, please add it here:
 
-- Three ways to get started.
+- Three ways to get started in geocomputing.
 - Drop everything and learn X (Julia? Clojure?).
 - Getting started in HPC in 3 easy steps.
 - Only a quantum computer can do geology.
 - Geocomputing at enterprise scale.
-- Open sourcing a corporate 
+- Open sourcing a corporate software project.
 - Data standards, lol.
 - Geocomputing in the year 2028.
 - Teaching geoscientists to code.
