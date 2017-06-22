@@ -28,6 +28,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 | Hassan Sabirin   | Quality checking spatial data       |             |
 | Martin Storey    | De profundis: of well depth         |             |
 | John Leeman      | Hardware is Hard - Teaching Geotech |             |
+| GRAM             | Seismic Data Encryption             |             |
 
 
 ## Wish list
