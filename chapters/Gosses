@@ -1,103 +1,47 @@
-Outline copied in from notes. 
+Outline for possible chapter (please feel free to take on steal, borrow, collaborate, etc.)
 
-Will rewrite soon.
-
-Three separate ideaa here.
-
-    - Ideas
-        - The future of JavaScript, the Browser, and You
-        - The Curious Case of  JavaScript
-        - Why geologists should probably learn a little JavaScript
-        - What JavaScript Can Teach You
-        - JavaScript is hard to kill; You should learn a little
+    - Possible Titles:
+        - Why Geoscientists Should Learn JavaScript Second
+        - What JavaScript Can Teach You About Computer Languages
+        - You Should Learn to Write JavaScript Because It Is Hard to Kill
+    - Content
+        - Introduction to JavaScript & Early History & introduction to main point
+            - Why this article = I went to PyCon and it was obvious people there really didn't like JavaScript and were plotting how to avoid and or kill it
             - It was written in a very short time
-            - It misbehaves
+            - It misbehaves and does enough weird things that people can make highly watched talks and podcasts whose whole points is just to laugh at JS
             - It is easy to make the argument that other languages are better
-            - But... because browser, and then later mindshare... it is very, very hard to kill
+            - But... because browser, and then later mindshare.. it is very, very hard to kill
+        - Attempted Murders
             - JavaApplets & plugins
             - JavaScript is locked in more than Microsoft, but maybe it too can lose control?
             - Asm.js
             - WebAssembly
+        - JavaScript Growth
             - Node.js mindshare example
-            - Computing moves to phones, to cloud, to browser
-            - Graphics and processing always catch up. Browsers have huge institutional levels of backing
-            - Abscombs principle: any piece of code will eventually be re-written into JavaScript
+            - Computing moves to phones, to cloud, to browser. Browsers are getting very powerful. 
+            - Graphics and processing always catch up. 
+            - Browsers have huge institutional levels of backing
+        - Abscomb's Principle
+            - Abscombs principle: any piece of code will eventually be re-written into JavaScript, even if for no good reason.
                 - Apollo guidance system as example
-            - Certain things faster now due to GPU
+            - Browswer still matters even if indirectly... because...
+              - Certain things faster now due to GPU
             - Basically
                 - 1. browser has JS locked in
                   2. mind-share
                   3. GPU
-            - You should learn a bit as it is what you'll use to put things on a screen if you want it to be widely used in the future.
+        - Take away / What You Can Do With JS- 
+                - You should learn a bit as it is what you'll use to put things on a screen if you want it to be widely used in the future.
                 - more things moving to web
                 - phones are more capable
-                    - Graphis
+                    - Graphics
                     - Processing power
                     - AR/VR
                     - Not everyhing has to live under your desk in a tower to be a useful computer these days.
                 - web can be desktop (steal Java's tag-line and develop once run anyway)
                 - Altair & Jupyter notebooks announcement.
                     - It isn't all bad... maybe more of a passing back and forth and less of a fence to throw things over?
-            - What controls these things? 
+        - Summary: What controls these things? 
                 - It isn't just Engineering also anthropology, economics, behavioral economocs, and timing!
-        - Idea 2:
-            - Titles:
-                   - Sharing across a new axis in oil and gas
-                   - Standing on the shoulders of Giants* {*cross out giants} that guy in the UK office; 
-                   - Intra-source; the cheap and easy path to innovation
-                   - Intra-source; a low hanging fruit
-            - Causes
-                - Giants aren't dead, as things move too fast in CS. We can use each other's work.
-                - this model works in open-source
-                    - Security
-                    - Innovation
-                    - Mind share
-                    - Eyeballs
-                - but open-source is admittedly hard
-                - New model of who does coding with rise of analytics. 
-                    - There will be a point in time when it won't be IT contractors writing the majority of a company's code.
-                - More people know how to write code the % is only increasing
-                - Need to Raise profile of applied code geared to your data and your issues
-                    - Data centric company
-                    - easier than open-source
-            - What
-                - Intra-source ~ internal code sharing ~ skill-based community around coding that crosses org boundaries
-                - Parts
-                    - Github/Gitlab or network of them linked across the enterprise
-                    - Way to quick understand and answer questions about the code, people writing the code, and their purposes
-                        - turn code repositories into a data product with many possible things that sit on top of it
-                    - Community & Communication strategy for making connections, sharing information, and promotion.
-                    - Possible to also share products not just code: API registries, Data visualization gallery
-            - Benefits
-                - Increase innovation rate
-                - Cost savings & reduce cycle times
-                - Know your organizations skills
-                - Make contacts, find mentors, and share skills across large organizations
-                - Easier to build on componets & helps break those darn silos or at least stop building them
-                - Informal project oriented Learning
-                - A half-way step to open-source
-                    - Some of the benefits with fewer lawyers and more speed
-            - Challenges
-                - Innovation is Different model from 'best practice'.
-                    - Best practice in code is less on methods and more about clarity, style, and success of end product. 
-                        - The "how" strinks in importance.
-                        - Guy at AAPG who stood up after a talk about data science and said, 
-                            - "no one should believe any of it if it can't be broken down into a simple list of variables and an equation and explained to a manager."
-                            - That guy is wrong. The whole point of data science is it is very complicated math that a human can't easily do by themselves. 
-                            - We use 3D models. Data science & data visualizations are often more testable! 
-                            - Oil and gas is only good at new things in categories where we've become accustomed to continuous and gradual change.
-                                - In other categories, like source rock or anything with well logs, we're much more resistent. 
-                - Incentives
-                    - What do you incentivize?
-                    - Incentives cause gaming
-                    - Incentives vs.culture
-                - Coding skills in data sphere cross organization but also reside in other disciplines , at margins, and completely inside.
-                    - NLP, SciKit-Learn, tensor flow, d3.js all cross many domains
-                    - Upstream vs downstream, region, explora-dev-production, disciplines
-                - Needs to both use these skills and deal with issues of groups that have and don't have skills
-                - Software, code running inside, separate, chains, etc. Changes more issue than model.
-                - Organization model, how to distribute people with skills? How does this change over time as both technology and people's skills and organizational model change
-        - Idea 3:
-            Title:
-                - Joy of side projects
-                - Side Projects and Geology Field Trips; A comparison
+                - Worthwhile to learn JavaScript because it isn't going anywhere and it is how you get things on something other people will see
+        
