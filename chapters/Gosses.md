@@ -16,4 +16,4 @@ A central enterprise instance of github, gitlab, or bitbucket running behind the
  
 As more people know how to code and the amount of time needed to write code decreases, the amount of code written will increase, the location of people writing code in the organization will radically diversify, and the need for effectives means to share, contribute, and manage code across large organizations will become more pressing. All large oil and gas companies will eventually have an inner-source program. Some will have one earlier. Some will have a better one.
 
- 
+ > Worth saying a second time, writing still in progress...  &mdash;
