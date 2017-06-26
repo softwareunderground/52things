@@ -16,10 +16,13 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 | Martin Bentley   | Best Practices are not the best...  |             |
 | Austin Bingham   | Domain-driven design in geocomputing|             |
 | Ben Bougher      | Am = d: a linear algebra approach...|             |
+| Bert Bril        | Putting colours on data             |             |
 | Jesper Dramsch   | General purpose GPU programming     |             |
 | Chris Ennen      | Software, software everywhere       |             |
 | Sergey Fomel     | Reproducible research               |             |
+| GRAM             | Seismic data encryption             |             |
 | Dave Hale        | My favourite 10 line program        |             |
+| John Leeman      | Hardware is hard: teaching geotech  |             |
 | Bill Menger      | The steady advance of Linux         |             |
 | Bill Menger      | Software challenges in oil & gas    |             |
 | Matteo Niccoli   | A fault colourmap prototype         |             |
@@ -27,8 +30,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 | Alberto Rusic    | I hate computers 2                  |             |
 | Hassan Sabirin   | Quality checking spatial data       |             |
 | Martin Storey    | De profundis: of well depth         |             |
-| John Leeman      | Hardware is Hard - Teaching Geotech |             |
-| John Thurmond    | The Tyranny of Formats              |             |
+| John Thurmond    | The tyranny of formats              |             |
 
 ## Wish list
 
