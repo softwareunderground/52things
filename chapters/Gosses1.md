@@ -4,41 +4,18 @@ Justin Gosses
  
 > Writing in progress....  &mdash; 
  
- 
 The phrase “If I have seen further, it is by standing on the shoulders of giants.” was written by Isaac Newton to Robert Hooke in reference to building upon the work his predecessors. In science, we often think of these giants as long dead men in history books. In computer science, many of the giants are still alive. In open-source, they are people you meet at conferences. In inner source, they are your co-workers writing code right now, including those you’ve never met. 
  
-If there is a low hanging fruit of innovation, it might be inner source. While open-source has proved its value in terms of better code through more eyeballs and the ability to leverage mindshare to organize development of code ecosystems without centralized control, open-source is hard for companies, and especially hard for oil and gas. Lawyers get involved. Release processes are slow, non-existent, or written for the worst-case scenario. inner source offers many of the benefits with increased speed and less institutional pushback. It is also a stepping stone to open-source, though you might want to keep that to yourself initially.
+If there is a low hanging fruit of innovation, it might be inner source. While open-source has proved its value in terms of better code through more eyeballs and the ability to leverage mindshare to organize development of code ecosystems without centralized control, open-source is hard for companies and especially hard for oil and gas. Lawyers get involved. Release processes are slow, non-existent, or written for the worst-case scenario. Inner source offers many of the benefits with increased speed and less institutional pushback. It can also be a stepping stone to open-source.
  
-Inner source refers to the sharing and reuse of code written in an organization by any other part of the organization. While oil and gas companies are adept at sharing within disciplines geographically distributed in multiple offices, up and down the chain of command hand-off style, or across disciplines operating in a local area, inner source needs to be code sharing across the entire company. Financial analysts and geoscientists both use Pandas, a data analysis library. Petrophysicists and procurements can both use natural language processing for their respective documents. Engineers building monitoring software for offshore installments and in-store marketing analysts might both be using OpenCV for image recognition. Traditional boundaries in oil and gas aren't helpful when it comes to sharing code. The distinguishing characteristics are tools and techniques, not discipline, geography, data source, or upstream versus downstream. 
+Inner source refers to the sharing and reuse of code written in an organization by any other part of the organization. While oil and gas companies are adept at sharing within disciplines geographically distributed in multiple offices, up and down the organization hierarchy one layer at a time, or across disciplines operating in a local area, inner source needs to be code sharing across the entire company. Financial analysts and geoscientists both use Pandas, a Python library for data analysis. Petrophysicists and procurement analysts both use natural language processing to analyze large numbers of documents. Traditional boundaries in oil and gas aren't helpful when it comes to sharing code. The distinguishing characteristics are tools and techniques, not discipline, geography, data source, or upstream versus downstream. 
  
-If people writing similar code, using similar tools, or solving similar problems can be exposed to each other, there are opportunities for learning, mentorship, code reuse, and inspiration that only happen in an organization that enables both code sharing and discovery of similar code, skills, and programmers in another part of the organization. 
+Although inner source can be evaluated entirely through the lens of external contributions to  projects that are additional to the work of the main project team, this would be a mistake. Many of the benefits of inner-source stem from code reuse, exposure to different programming approaches, and programmer skill development through improved community. 
  
-Technologically, the “how” for getting started inner source is simple. As github has become the default place for open-source development, enterprise github and gitlab instances running on internal enterprise servers make up most of the inner source space. The technological means of code and programmer discovery has less of an established answer, but it it likely natural language processing, recommendation engines using machine-learning based clustering, and already known patterns of discipline development can be merged. 
+In a company that does inner-source well, code is more secure, because there are more eyeballs on each piece of code. Projects are written faster as more code can be reused. As the rate of code reuse and external contributions increase, external users have heightened expectations of good documentation and original developers have greater need for improved test coverage, resulting in more reliable code. Micro-services become increasingly preferred over monolithic architectures to take advantage of previously written code. APIs become a more standard requirement across databases and systems. Micro-services and APIs together slowly punch holes into data silos across the organization allowing data to flow more easily across system and organization boundaries. Many GUI-based software packages in oil and gas allow you to run Python or R inside them. As these small scripts are shared, more value is pulled from software tools already paid for. When more people writing code can find examples of similar code being written by others in different parts of the organization, opportunities for mentorship increase, development time decreases, and sparsely distributed  expert programming knowledge can more efficiently be distributed to where it is needed. 
  
-The cultural aspects of instra-source are more challenging. 
+An enterprise instance of github, gitlab, or bitbucket running behind the company firewall is where most companies start with inner-source. These well established tools only provides part of the answer, however. There are changes in company culture and increased developer networking needs with less well established answers. A company-wide chat tool that enables efficient, asynchronous, topic-based communication can promote efficient human to human connections between people in different parts of the organization who may not know of each other. These are standard in tech companies but not in oil and gas. People also need tools to help them quickly find useful code and developers. Perhaps natural language processing, graph databases, and machine-learning based recommendation engines can provide a solution, but there is no established answer yet. 
  
- 
-continuing.... 
- 
-Best practice
-  - Will be questioned more and more by young people who know how to code and judged by older people who don’t
-  - Best practice in code is less on methods and more about clarity, style, and success of end product.
- 
-More people have skills.
-  - how to distribute those people
-  - organizational model impact
-  - How will this change over time as more people know how to code?
-  - How to deal with some people having skills but not others
- 
-Code running inside programs, outside, separate, webpages ~ risk of technical debt?
- 
-The dreaded black box! 
-  - "no one should believe any of it if it can't be broken down into a simple list of variables and an equation and explained to a manager."
-  - Black box from not having access to internals
-  - Black box from not understanding
-  - Black box from changing models as new data and methods are added continuously
- 
- Historical Changes & Value Statement & Summary
- 
+As more people know how to code and the amount of time needed to write code reduces, the amount of code written will increase, the location of people writing code in the organization will radically diversify, and the need for effectives means to share, contribute, and management code across organizations will become more pressing. All large oil and gas companies will eventually have an inner-source program. Some will have one earlier and some will have a better one.
 
  
