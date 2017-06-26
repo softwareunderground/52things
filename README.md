@@ -16,6 +16,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 | Martin Bentley   | Best Practices are not the best...  |             |
 | Austin Bingham   | Domain-driven design in geocomputing|             |
 | Ben Bougher      | Am = d: a linear algebra approach...|             |
+| Bert Bril        | Putting colours on data             |             |
 | Jesper Dramsch   | General purpose GPU programming     |             |
 | Chris Ennen      | Software, software everywhere       |             |
 | Sergey Fomel     | Reproducible research               |             |
