@@ -21,11 +21,9 @@ Outline for possible chapter (please feel free to take on steal, borrow, collabo
             - Computing moves to phones, to cloud, to browser. Browsers are getting very powerful. 
             - Graphics and processing always catch up. 
             - Browsers have huge institutional levels of backing
-        - Abscomb's Principle
-            - Abscombs principle: any piece of code will eventually be re-written into JavaScript, even if for no good reason.
+        - Atwood's Principle
+            - Atwood's principle: any piece of code will eventually be re-written into JavaScript, even if for no good reason.
                 - Apollo guidance system as example
-            - Browswer still matters even if indirectly... because...
-              - Certain things faster now due to GPU
             - Basically
                 - 1. browser has JS locked in
                   2. mind-share
