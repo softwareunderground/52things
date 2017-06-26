@@ -60,4 +60,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | ---------------- | ------------------------------------------------- |
 | Matt Hall        | Hackathons and similar events / Code literacy     |
 | Matt Hall        | What's so special about geoscience?               |
-| Justin Gosses    | I see JavaScript in your future                   |
+| Justin Gosses    | Standing on the shoulders of the guy in the UK office|
