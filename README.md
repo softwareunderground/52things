@@ -49,4 +49,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Author           | Topic or working title                            |
 | ---------------- | ------------------------------------------------- |
 | Matt Hall        | Hackathons and similar events                     |
-| Justin Gosses    | Standing on the Shoulders of the Guy in the UK Office|
+| Justin Gosses    | Standing on the shoulders of the guy in the UK office|
