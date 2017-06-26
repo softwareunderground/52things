@@ -2,7 +2,7 @@
  
 Justin Gosses
  
-> Writing still in progress....  &mdash; 
+> Writing still in progress....this is a rough draft  &mdash; 
  
 The phrase “If I have seen further, it is by standing on the shoulders of giants.” was written by Isaac Newton to Robert Hooke in reference to building upon the work his predecessors. In science, we often think of these giants as long dead men in history books. In computer science, many of the giants are still alive. In open-source, they are people you meet at conferences. In inner source, they are your co-workers writing code right now, including those you’ve never met. 
  
