@@ -12,6 +12,7 @@ So what is serverless computing? Of course there are servers, but you do stuff w
 
 The one that I am most familiar with is Amazon Web Services (AWS) Lambda. Let’s look at an AWS provided example:
 > “New function using blueprint s3-get-object-python”
+> An Amazon S3 trigger that retrieves metadata for the object that has been updated.
 
 Here’s the Python 2.7 Lambda function:
 
