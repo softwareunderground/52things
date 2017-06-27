@@ -1,1 +1,1 @@
-James Selvage is a 
+James Selvage has always followed his next interest and at that moment that's seeing how cloud computing can be applied to geosciences. Before this it was geophysics at an oil & gas operator, before that it was studying geophysics and before that it was studying physics & geology. A consistent theme has been programming computers: to learn, to solve problems, to make things easier for other people. 
