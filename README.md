@@ -51,6 +51,7 @@ If you have a topic you wish someone would write about, please add it here:
 - How tech ubiquity is changing geoscientific observation.
 - 5 libraries for geophysicists: obspy, madagascar, simpeg, vispy, etc.
 - 5 libraries for geologists: pynoddy, qgis, pygmt, pandas/welly/striplog, etc.
+- Is the subsurface a Graph? (ask the author of noddy/pynoddy)
 
 ## Promises, promises
 
@@ -62,5 +63,5 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matt Hall        | What's so special about geoscience?               |
 | Justin Gosses    | Standing on the shoulders of the guy in the UK office|
 | Steve Purves     | Numbers |
-| Steve Purves     | Floats
+| Steve Purves     | Not the floating point |
 
