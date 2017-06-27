@@ -31,6 +31,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   17  | Hassan Sabirin   | Quality checking spatial data       |             |
 |   18  | Martin Storey    | De profundis: of well depth         |             |
 |   19  | John Thurmond    | The tyranny of formats              |             |
+|   20  | James Selvage    | Serverless computing                |             |
 
 ## Wish list
 
