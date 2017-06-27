@@ -41,7 +41,7 @@ Once this Lambda function is created in your AWS Account you can link it to a tr
 * content type is printed (output)
 * function ends (server stops)
 
-No files added = no servers running, 1 file added = 1 server starts & stops, n files added = n servers start & stop. That’s serverless... flexible computing.
+No files added = no servers running, 1 file added = 1 server starts, runs & stops, n files added = n servers start, run & stop. That’s serverless... flexible computing.
 
 It is a different way of developing applications and it requires a different way of thinking. By joining together multiple functions you can create an Application Programming Interface (API). At Osokey we’ve recently created an API for extracting meta data, viewing and processing SEG Y files. Each function is limited to a specific task, e.g. read the EBCDIC header from a SEG Y file, and each function is configured with different memory to meet its specific requirements. Multiple APIs can be joined together, e.g. a horizon viewing API can be joined with the SEG Y viewing API. These APIs are callable by third parties, run on-demand and are scaleable.
 
