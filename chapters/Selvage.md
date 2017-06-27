@@ -41,7 +41,7 @@ Once this Lambda function is created in your AWS Account you can link it to a tr
 * content type is printed (output)
 * function ends (server stops)
 
-No files added = no servers running, 1 file added = 1 server starts & stops, n files added = n servers start & stop. That’s serverless…
+No files added = no servers running, 1 file added = 1 server starts & stops, n files added = n servers start & stop. That’s serverless... flexible computing.
 
 It is a different way of developing applications and it requires a different way of thinking. By joining together multiple functions you can create an Application Programming Interface (API). At Osokey we’ve recently created an API for extracting meta data, viewing and processing SEG Y files. Each function is limited to a specific task, e.g. read the EBCDIC header from a SEG Y file, and each function is configured with different memory to meet its specific requirements. Multiple APIs can be joined together, e.g. a horizon viewing API can be joined with the SEG Y viewing API. These APIs are callable by third parties, run on-demand and are scaleable.
 
@@ -56,5 +56,5 @@ At the same summit I also heard Conway’s Law, “Organizations which design sy
 
 Communication structures inside organisations are changing, but outside of work we have almost all adopted cloud-based solutions. Slack, Facebook, Google Services, WhatsApp, ... have all become hugely popular because they provide instant access from wherever we are. We don't need to have physical photo albums, video libraries or music collections any more. This transition has happened without us really noticing and many of the tools integrate seamlessly into our lives. Why not the same for the oil & gas industry data and the way we work with it? 
 
-Most companies in the oil & gas industry have their own cloud strategy, but the whole industry will miss an opportunity if these systems are not integrated. Cloud services provide the flexible IT platform for scaling business up and down, but to be fully agile we also need to "virtualise" the workforce. In our industry when we are so dependent on external circumstances - licensing rounds, the price of oil, availability of farm-ins, ... Would it not be better to vary our working hours according to the work that is actually required?
+Most companies in the oil & gas industry have their own cloud strategy, but the whole industry will miss an opportunity if these systems are not integrated. Cloud services provide the flexible IT platform for scaling business up and down, but to be fully agile we also need to "virtualise" the workforce. In our industry when we are so dependent on external circumstances - licensing rounds, the price of oil, availability of farm-ins, ... would it not be better to vary our working hours according to the work that is actually required? Flexible computing for a flexible workforce. 
  
