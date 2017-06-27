@@ -48,13 +48,13 @@ It is a different way of developing applications and it requires a different way
 A complete platform for geosciences could be built by creating further APIs. How about an API for?
 * Well log QC
 * Rock physics
+* Seismic attributes
 * Full waveform inversion
-* …
+* ...
 
 At the same summit I also heard Conway’s Law, “Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations”. Melvin Conway was not trying to be humorous, but have a think about the organisation that you work in and the systems that have been designed. 
 
-In terms of communication, outside of work we have almost all adopted cloud-based solutions. Slack, Facebook, Google Services, WhatsApp, …  have all become hugely popular because they provide instant access from wherever we are. We don't need to have physical photo albums, video libraries or music collections any more. This transition has happened without us really noticing and many of the tools integrate seamlessly into our lives. Why not the same for the oil & gas industry and the way we work?
+Communication structures inside organisations are changing, but outside of work we have almost all adopted cloud-based solutions. Slack, Facebook, Google Services, WhatsApp, ... have all become hugely popular because they provide instant access from wherever we are. We don't need to have physical photo albums, video libraries or music collections any more. This transition has happened without us really noticing and many of the tools integrate seamlessly into our lives. Why not the same for the oil & gas industry data and the way we work with it? 
 
-Cloud services provide the flexible IT platform for scaling business up and down, but to be fully agile we also need to "virtualise" the workforce. Current working practises are a historical accident - why do we all travel to an office and work largely independently for eight hours? Would it not be better to vary our working hours according to the work that is actually required? This is particularly the case in E&P when we are so dependent on external circumstances - licensing rounds, the price of oil, availability of farm-ins, etc. 
-
-Communication structures outside and inside organisations are changing and this is leading to different system designs. Most companies in the oil & gas industry have their own cloud strategy, but the whole industry will miss an opportunity if these system are not integrated.              
+Most companies in the oil & gas industry have their own cloud strategy, but the whole industry will miss an opportunity if these systems are not integrated. Cloud services provide the flexible IT platform for scaling business up and down, but to be fully agile we also need to "virtualise" the workforce. In our industry when we are so dependent on external circumstances - licensing rounds, the price of oil, availability of farm-ins, ... Would it not be better to vary our working hours according to the work that is actually required?
+ 
