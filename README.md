@@ -38,3 +38,4 @@ To review:
 | Alberto Rusic    | I hate computers 2                  |             |
 | Hassan Sabirin   | Quality checking spatial data       |             |
 | Martin Storey    | De profundis: of well depth         |             |
+| Steve Purves     | Learn Javascript                    |             |
