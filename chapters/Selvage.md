@@ -5,10 +5,10 @@ James Selvage
 It was in 2016 at a summit in London that I first heard the “serverless” phrase and I was both confused and intrigued. It was a few talks in when one of the presenters said, “of course there are servers …” Phew that sounds more understandable.
 
 So what is serverless computing? Of course there are servers, but you do stuff without managing them. The major cloud service providers offer serverless computing:
-* Amazon Web Services Lambda functions
-* Google Cloud functions
-* Microsoft Azure functions
-* IBM OpenWhisk
+* Amazon Web Services - Lambda functions
+* Google - Cloud functions
+* Microsoft - Azure functions
+* IBM - OpenWhisk
 
 The one that I am most familiar with is Amazon Web Services (AWS) Lambda. Let’s look at an AWS provided example:
 > “New function using blueprint s3-get-object-python”
