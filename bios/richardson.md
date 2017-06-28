@@ -1,0 +1,1 @@
+Alan studied Theoretical Physics at Trinity College Dublin, before obtaining a Master's in High Performance Computing from the University of Edinburgh, and a PhD in Geophysics from MIT. He is the founder of Ausar Geophysical.
