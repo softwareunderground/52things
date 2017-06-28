@@ -4,6 +4,8 @@ Author: Drew Steen
 Date: 06-23-2017
 ---
 
+**This is a draft:** I'll be able to finalize it in early August.
+
 Some years ago, I met with a computer scientist about creating a coding class for geoscientists. The CS instructor said that "we need to take these geoscientists, and turn them into programmers!" I totally disagree: the goal of a coding class for geoscientists is **not** to change students' disciplinary orientation. Rather, it is to give discipline scientists an additional set of tools they can use to create excellent science. If a computer science degree is like a master carpentry course, a coding class for geosciences should be like an entry-level job on a construction site. 
 
 (I don't konw where to put this sentence:) To extend the metaphor, geoscience students will end up needing a vastly different set of tools depending on their discipline and their specific project: the geophysicst who is working accessing seismology datasets through APIs requires a very different set of tools from the geomicrobiologist who is running new-but-buggy software to handle genomic datasets.
@@ -44,76 +46,5 @@ Finally, an important point: the vast majority of business environments (and pro
 # Conclusions
 
 Some kind of brief conclusion, maybe.
-
-
-<<Blah blah blah: Visual Basic and other programming interfaces for Excel (there are Python, R, and MATLAB ones) are great, but really students need to learn how to put together a comprehensible, powerful, and attractive Excel sheet. THe upside is that these skills are a part of reproducible science: a student who has thought about how to write code that is easy to read, will be better at creating a legible Excel sheet, and vice versa.
-
-
-
-
-
-
-
-## A practical approach
-
-Geoscience students often (not always!) tend to be relatively concrete thinkers. For that reason it is massively easier for us to learn coding in the context of real, useful geoscience data analysis tasks (or at least tasks that are plausibly connected to real-world tasks). This means that:
-
-a. It makes sense to teach students who already have some data: upper level undergraduate and early-career graduate students
-b. It helps to use data sets and tasks that are connected to geoscience, rather than generic data analysis data sets and tasks.
-
-This puts constraits on students, however: undergraduate students only have a limited amount of time to work on a class, and the prime responsibility of graduate students is to produce research, not to work on classes. This means that **the goal of a coding class for geoscientists should be to give students the tools to 
-
-The ideal class therefore would have students work entirely with their own data sets, thereby do
-
-... I don't know how to connect this to the next thought...
-
-
-
-
-### Spatial orientation
-
-
-### Visualization and unique challenges
-
-
-
-## Unusual points
-
-* Students are goal-oriented: Don't ahve time to learn a new field (We're not creating computer scientists, we're creating geoscientists who have an extra skill set)
-* Students are time-constrained. Easy to imagine that they need to learn coding from the ground up (CS approach) but really they need to be working on their science while they're learning to code - just purely from a time management standpoint
-* Many (not all!) students are somewhat concrete. THey would have gone into CS if they wanted to go into CS. 
-
-
-## Key skills
-
-Note: instructors, mainly, are from a generation where OS were more visible/transparent than "kids these days", who are used to mobile OS that conceal directory structure etc
-
-* PRoper file management (i.e., don't dump everything on your desktop!)
-* Understanding file structures and text file formats
-* Understanding a little bit about hardware (i.e., hard drive, processor, RAM, roughly what those all do)
-* Understanding the difference between IDE, source code, compiler/interpreter, OS
-* Roughly how to use git/GitHub. (For me, just commit/branch/push-pull/fork.) Mainly useful because 
-
-# Final recommendations
-
-* Teach coding, not a specific language (but teach in a specific language). 
-* Teach in an interactive language, which is relevant to students' research. In practice this means R, Python, or (ugh, if you must) MATLAB.
-* Force students to solve each others' problems, e.g. by grading on the principle of collective responsibility [n.b.: I am looking for a less historically-charged term!].
-* Be sure to cover geoscience-relevant tasks, including timeseries, spatial analysis, and data visualization.
-
-
------
-Footnotes:
-* Mostly. This chapter assumes students who need to learn some coding for their data analysis, but fundamentally are trying to make new discoveries about geoscience. There's another class of geoscientists who have a foot in computer science or software design: people trying to develop new algorithms for GIS, for instance. Those people really do need to learn CS qua CS, and the advice presented here doesn't apply.
-
-
----
-cut text:
-
-As an undergraduate, I had a brief career as a computer science major. Teaching computer science students to code is relatively straightforward, for two reasons:
-* computer science students want to learn to code
-* they have four years to learn it.
-
-The second point here is underrated: computer science is a broad discipline. The basic tool of CS is coding, but coding is to computer science as hammering is to craft carpentry. This makes teaching coding to geoscientists* a fundamentally different exercise than teaching CS to CS students. 
 
 
