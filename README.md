@@ -26,12 +26,14 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   12  | Bill Menger      | The steady advance of Linux         |             |
 |   13  | Bill Menger      | Software challenges in oil & gas    |             |
 |   14  | Matteo Niccoli   | A fault colourmap prototype         |             |
-|   15  | Alberto Rusic    | I hate computers 1                  |             |
-|   16  | Alberto Rusic    | I hate computers 2                  |             |
-|   17  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   18  | Martin Storey    | De profundis: of well depth         |             |
-|   19  | John Thurmond    | The tyranny of formats              |             |   
+|   15  | Steve Purves     | Learn JavaScript!                   |             |
+|   16  | Alan Richardson  | Use standard file & problem formats |             |
+|   17  | Alberto Rusic    | I hate computers 1                  |             |
+|   18  | Alberto Rusic    | I hate computers 2                  |             |
+|   19  | Hassan Sabirin   | Quality checking spatial data       |             |
 |   20  | Andrew D. Steen  | Teaching geoscientists to code      |
+|   21  | Martin Storey    | De profundis: of well depth         |             |
+|   22  | John Thurmond    | The tyranny of formats              |             |   
 
 ## Wish list
 
@@ -60,6 +62,8 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 
 | Author           | Topic or working title                            |
 | ---------------- | ------------------------------------------------- |
-| Matt Hall        | Hackathons and similar events / Code literacy     |
+| Matt Hall        | Hackathons and similar events                     |
 | Matt Hall        | What's so special about geoscience?               |
+| Evan Bianco      | Something something                               |
 | Justin Gosses    | Standing on the shoulders of the guy in the UK office|
+| Paige Bailey     | Machine learning opportunities in the geosciences |
