@@ -30,7 +30,8 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   16  | Alberto Rusic    | I hate computers 2                  |             |
 |   17  | Hassan Sabirin   | Quality checking spatial data       |             |
 |   18  | Martin Storey    | De profundis: of well depth         |             |
-|   19  | John Thurmond    | The tyranny of formats              |             |
+|   19  | John Thurmond    | The tyranny of formats              |             |   
+|   20  | Andrew D. Steen  | Teaching geoscientists to code      |
 
 ## Wish list
 
@@ -44,12 +45,13 @@ If you have a topic you wish someone would write about, please add it here:
 - Open sourcing a corporate software project.
 - Data standards, lol.
 - Geocomputing in the year 2028.
-- Teaching geoscientists to code.
+- Teaching geoscientists to code: Everything Drew Steen said is wrong
 - Thank you for the state-of-the-art processing, I will now proceed to interpret it incorrectly.
 - Units -sigh- let's start using pint (like metpy), astropy, or _something_.
 - How tech ubiquity is changing geoscientific observation.
 - 5 libraries for geophysicists: obspy, madagascar, simpeg, vispy, etc.
 - 5 libraries for geologists: pynoddy, qgis, pygmt, pandas/welly/striplog, etc.
+- 5 libraries for geobiologists: dplyr, magrittr (maybe), tidyr, vegan, ggplot2
 
 
 ## Promises, promises
