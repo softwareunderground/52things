@@ -1,0 +1,2 @@
+
+Florian is interested in all aspects of complexity, information and uncertainty about the subsurface. He has a background in Geology and Geophysics, with a high level of curiosity in programming and statistics, and he has experience in both geological interpolations and geostatistics, as well as HPC process simulations of fluid flow and heat transport. Currently, he has a position as Junior-Professor in “Numerical Reservoir Engineering” at RWTH Aachen University, Germany.

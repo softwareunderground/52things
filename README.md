@@ -35,6 +35,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   21  | Andrew D. Steen  | Teaching geoscientists to code      |
 |   22  | Martin Storey    | De profundis: of well depth         |             |
 |   23  | John Thurmond    | The tyranny of formats              |             |   
+|   24  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 
 
 ## Wish list
