@@ -2,10 +2,9 @@
 
 *By Jan Niederau*
 
-I'm a self-taught coder, but a geologist by education. So there were people who taught me how to analyse rocks, how to interpret seismics (or an XRD difractogram), how to use GIS. But during my studies, everything with programming, all _quantitative_ lectures were done in Excel. It was until I studied abroad in France, that I learned
-about [Scilab](http://www.scilab.org/) and programming. And that really got me into coding. Since then, I moved from Scilab to Matlab (as my university has free licenses for students), to Python.  
+I'm a self-taught coder, but a geologist by education. So there were people who taught me how to analyse rocks, how to interpret seismics (or an XRD difractogram), how to use GIS. But during my studies, everything with programming, all _quantitative_ lectures were done in Excel. It was until I studied abroad in France, that I learned about [Scilab](http://www.scilab.org/) and programming. And that really got me into coding. Since then, I moved from Scilab to Matlab (as my university has free licenses for students), to Python.  
 
-I started teaching courses in geothermics, and realized that most of the students in my exercise courses had little to no experience with programming, even though they had a mandatory lecture about programming and statistics, taught in Matlab instead of Excel. 
+I started teaching courses in geothermics, and realized that most of the students in my exercise courses had little to no experience with programming, even though they had a mandatory course about programming and statistics, now taught in Matlab instead of Excel. 
 Still, that course is given in a frontal lecture style, where students are passive consumers. They follow the lecturer's code displayed on the beamer, often step-by-step. 
 
 That's the traditional way, the way they're used to. But it has been shown, that it is also one of the least efficient ways of teaching students to code [1]. So for improving a student's skills in programming efficiently, they have to actively solve problems in a self-determined way.
