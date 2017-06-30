@@ -31,10 +31,12 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   17  | Alberto Rusic    | I hate computers 1                  |             |
 |   18  | Alberto Rusic    | I hate computers 2                  |             |
 |   19  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   20  | Andrew D. Steen  | Teaching geoscientists to code      |
-|   21  | Martin Storey    | De profundis: of well depth         |             |
-|   22  | John Thurmond    | The tyranny of formats              |             |   
-|   23  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+|   20  | James Selvage    | Serverless computing                |             |
+|   21  | Andrew D. Steen  | Teaching geoscientists to code      |
+|   22  | Martin Storey    | De profundis: of well depth         |             |
+|   23  | John Thurmond    | The tyranny of formats              |             |   
+|   24  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+
 
 ## Wish list
 
