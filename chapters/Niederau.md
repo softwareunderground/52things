@@ -14,7 +14,7 @@ In this project, we created concepts of teaching code interactively using Jupyte
 
 They enable to combine code, formatable text, and images/plots in one single document format, making them the ideal tool for teaching. However, they work smoother with Python than with Matlab. But considering Python's ever growing popularity, teaching students to code in Python instead in Matlab, might even be better. Especially, because basic coding skills become more and more prerequisite, and Python gets really popular in the geosciences [2].  
 
-In professor Wellmann's lecture "Numerical Reservoir Engineering", we tested combining task-definition together with predefined solution cells in a Jupyter Notebook instead handing out a single PDF file with the task-definition. The passively spent presence time during the exercise evolved to an active working session.    
+In our project, we tested combining task-definition together with predefined solution cells in a Jupyter Notebook instead handing out a single PDF file with the task-definition. The passively spent presence time during the exercise evolved to an active working session.    
 The perception by the students was great, so we increased the use of Notebooks, also for graded assignments.  
 Due to the flourishing community of Jupyter-developers, there exists a tool called [nbgrader](https://github.com/jupyter/nbgrader) which perfectly fitted our needs. Notebooks could now be autograded (with the occasional manual grading step)!
 
