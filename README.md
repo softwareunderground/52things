@@ -26,12 +26,16 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   12  | Bill Menger      | The steady advance of Linux         |             |
 |   13  | Bill Menger      | Software challenges in oil & gas    |             |
 |   14  | Matteo Niccoli   | A fault colourmap prototype         |             |
-|   15  | Alberto Rusic    | I hate computers 1                  |             |
-|   16  | Alberto Rusic    | I hate computers 2                  |             |
-|   17  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   18  | Martin Storey    | De profundis: of well depth         |             |
-|   19  | John Thurmond    | The tyranny of formats              |             |
+|   15  | Steve Purves     | Learn JavaScript!                   |             |
+|   16  | Alan Richardson  | Use standard file & problem formats |             |
+|   17  | Alberto Rusic    | I hate computers 1                  |             |
+|   18  | Alberto Rusic    | I hate computers 2                  |             |
+|   19  | Hassan Sabirin   | Quality checking spatial data       |             |
 |   20  | James Selvage    | Serverless computing                |             |
+|   21  | Andrew D. Steen  | Teaching geoscientists to code      |
+|   22  | Martin Storey    | De profundis: of well depth         |             |
+|   23  | John Thurmond    | The tyranny of formats              |             |   
+
 
 ## Wish list
 
@@ -45,12 +49,13 @@ If you have a topic you wish someone would write about, please add it here:
 - Open sourcing a corporate software project.
 - Data standards, lol.
 - Geocomputing in the year 2028.
-- Teaching geoscientists to code.
+- Teaching geoscientists to code: Everything Drew Steen said is wrong
 - Thank you for the state-of-the-art processing, I will now proceed to interpret it incorrectly.
 - Units -sigh- let's start using pint (like metpy), astropy, or _something_.
 - How tech ubiquity is changing geoscientific observation.
 - 5 libraries for geophysicists: obspy, madagascar, simpeg, vispy, etc.
 - 5 libraries for geologists: pynoddy, qgis, pygmt, pandas/welly/striplog, etc.
+- 5 libraries for geobiologists: dplyr, magrittr (maybe), tidyr, vegan, ggplot2
 
 
 ## Promises, promises
@@ -59,6 +64,8 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 
 | Author           | Topic or working title                            |
 | ---------------- | ------------------------------------------------- |
-| Matt Hall        | Hackathons and similar events / Code literacy     |
+| Matt Hall        | Hackathons and similar events                     |
 | Matt Hall        | What's so special about geoscience?               |
+| Evan Bianco      | Something something                               |
 | Justin Gosses    | Standing on the shoulders of the guy in the UK office|
+| Paige Bailey     | Machine learning opportunities in the geosciences |
