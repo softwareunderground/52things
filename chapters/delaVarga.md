@@ -42,12 +42,7 @@ gp.get_raw_data(geo_data, 'foliations').head()
 ```
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -128,19 +123,19 @@ gp.visualize(geo_data, pot_field=sol[1,:])
 
 # 
 As any other open-source project, GemPy
- did not start from nothing. Pandas [2] for data management, the
- Visualization Toolkit (vtk) [3] for 3D visualization and manipulation,
- skimage [4] for computing topology and extract 3D surfaces or the use
-  of  pynoddy [5] for kinematics ; are only an
-  example of how much can be accomplish integrating what the scientific
-  community is developing in the open-source scene.
+ did not start from scratch. Pandas for data management [2], the
+ Visualization Toolkit (vtk) for 3D visualization and manipulation [3],
+ skimage for computing topology and extract 3D surfaces [4] or the use
+  of  pynoddy for simulating kinematics [5]; are only an
+  example of how much can be accomplish integrating what the latest developments
+   of the scientific community in the open-source scene.
 
  GemPy was born with 3D geological modelling as an inference problem
   in mind. This means that automatic differentiation to compute gradients
    and computational performance were key. To achieve this, GemPy is built
    on top of Theano [6]. Theano is a Python library that allows to define
    symbolically mathematical expressions to be optimized and differentiated.
-   and on top of that compile the code either in C or CUDA for the use of
+   If this were not enough the code is compile  either in C or CUDA for the use of
    GPUs. The use of Theano opens up the integration with pymc3 [7] for a
    fully Bayesian framework in geological modelling.
 
