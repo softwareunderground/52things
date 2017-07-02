@@ -1,0 +1,1 @@
+Drew Steen is a geobiologist and organic geochemist currently working as an Assistant Professor in the Department of Earth and Planetary Sciences at the University of Tennessee - Knoxville. I'll add more in early August.
