@@ -15,8 +15,8 @@ information is gather. Novel implicit modelling based on global
  projects—when GemPy was conceived.
 
  GemPy is a Python library based on the potential fields method developed
- by Laujaunie et al (1997)[1] and expanded during the following years by
- many others [2]
+ by Laujaunie et al (1997) and expanded during the following years by
+ many others [1].
  This method interpolates interfaces points between formations or facies
  and poles—i.e perpendicular vectors to the layer dip—to create a potential
  field from which the domains (layers) can be extracted [Fig 2]. Additionally,
@@ -25,7 +25,8 @@ information is gather. Novel implicit modelling based on global
 
 #### Simple Example
 
-Here, it is shown how with a few lines of code we can obtain a geological model:
+Here, it is shown how with a few lines of code we can obtain a geological model. This
+model is formed by 3 horizontal layers offset by an infinte fault:
 
 ```python
 # Importing gempy
@@ -46,13 +47,6 @@ gp.get_raw_data(geo_data, 'foliations').head()
         text-align: right;
     }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -116,12 +110,13 @@ gp.visualize(geo_data)
 ```
 ![png](../figures/GemPyInputData.png)
 
+Now we can categorize the data into different depositional series and faults.
 ```python
 gp.set_data_series(geo_data, {"fault":geo_data.formations[4], 
                               "Rest":np.delete(geo_data.formations, 4)},
                     order_series = ["fault", "Rest"])
 ```
-
+And we are ready to interpolate:
 ```python
 interp_data = gp.InterpolatorInput(geo_data, u_grade=[3,3])
 sol = gp.compute_model(interp_data)
@@ -143,10 +138,10 @@ As any other open-source project, GemPy
  GemPy was born with 3D geological modelling as an inference problem
   in mind. This means that automatic differentiation to compute gradients
    and computational performance were key. To achieve this, GemPy is built
-   on top of Theano [5]. Theano is a Python library that allows to define
+   on top of Theano [6]. Theano is a Python library that allows to define
    symbolically mathematical expressions to be optimized and differentiated.
    and on top of that compile the code either in C or CUDA for the use of
-   GPUs. The use of Theano opens up the integration with pymc3 [6] for a
+   GPUs. The use of Theano opens up the integration with pymc3 [7] for a
    fully Bayesian framework in geological modelling.
 
  But this is only the beginning. Making geological modelling open-source
@@ -155,4 +150,12 @@ As any other open-source project, GemPy
   unique models to an automatic stochastic system of validation of hypothesis.
 
 
+## References 
 
+[1] Lajaunie, C., Courrioux, G., & Manuel, L. (1997). Foliation fields and 3D cartography in geology: principles of a method based on potential interpolation. Mathematical Geology, 29(4), 571-584.
+[2] McKinney, W. (2010, June). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51-56). Austin, TX: SciPy.
+[3] Schroeder, W. J., Lorensen, B., & Martin, K. (2004). The visualization toolkit: an object-oriented approach to 3D graphics. Kitware.
+[4] Boulogne, F., Warner, J. D., & Neil Yager, E. (2014). scikit-image: Image processing in Python.
+[5] Wellmann, J. F., Thiele, S. T., Lindsay, M. D., & Jessell, M. W. (2015). pynoddy 1.0: an experimental platform for automated 3-D kinematic and potential field modelling. Geosci. Model Dev. Discuss, 8, 10011-10051.
+[6] Al-Rfou, R., Alain, G., Almahairi, A., Angermueller, C., Bahdanau, D., Ballas, N., ... & Bengio, Y. (2016). Theano: A Python framework for fast computation of mathematical expressions. arXiv preprint.
+[7] Salvatier, J., Wiecki, T. V., & Fonnesbeck, C. (2016). Probabilistic programming in Python using PyMC3. PeerJ Computer Science, 2, e55.
