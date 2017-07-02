@@ -2,8 +2,8 @@
 
 Making 3D geological models is hard. Classical explicit models
 rely in the spatial vision of the modeller and their handcrafted
-nature makes almost impossible to update them as more and more
-information is gather. Novel implicit modelling based on global
+nature makes almost impossible to update them as more
+information is obtained. Novel implicit modelling based on global
  interpolations solve many of this problems but so far they are
  implemented in commercial softwares which provide limited
  functionality through their interfaces or APIs.
@@ -148,9 +148,16 @@ As any other open-source project, GemPy
 ## References 
 
 [1] Lajaunie, C., Courrioux, G., & Manuel, L. (1997). Foliation fields and 3D cartography in geology: principles of a method based on potential interpolation. Mathematical Geology, 29(4), 571-584.
+
 [2] McKinney, W. (2010, June). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51-56). Austin, TX: SciPy.
+
 [3] Schroeder, W. J., Lorensen, B., & Martin, K. (2004). The visualization toolkit: an object-oriented approach to 3D graphics. Kitware.
+
 [4] Boulogne, F., Warner, J. D., & Neil Yager, E. (2014). scikit-image: Image processing in Python.
+
 [5] Wellmann, J. F., Thiele, S. T., Lindsay, M. D., & Jessell, M. W. (2015). pynoddy 1.0: an experimental platform for automated 3-D kinematic and potential field modelling. Geosci. Model Dev. Discuss, 8, 10011-10051.
+
 [6] Al-Rfou, R., Alain, G., Almahairi, A., Angermueller, C., Bahdanau, D., Ballas, N., ... & Bengio, Y. (2016). Theano: A Python framework for fast computation of mathematical expressions. arXiv preprint.
+
 [7] Salvatier, J., Wiecki, T. V., & Fonnesbeck, C. (2016). Probabilistic programming in Python using PyMC3. PeerJ Computer Science, 2, e55.
+
