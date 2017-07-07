@@ -25,7 +25,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   11  | John Leeman      | Hardware is hard: teaching geotech  |             |
 |   12  | Bill Menger      | The steady advance of Linux         |             |
 |   13  | Bill Menger      | Software challenges in oil & gas    |             |
-|   14  | Matteo Niccoli   | A fault colourmap prototype         |             |
+|   14  | Matteo Niccoli   | Prototype cmaps for fault interpretn|             |
 |   15  | Steve Purves     | Learn JavaScript!                   |             |
 |   16  | Alan Richardson  | Use standard file & problem formats |             |
 |   17  | Alberto Rusic    | I hate computers 1                  |             |
