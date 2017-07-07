@@ -70,3 +70,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Evan Bianco      | Something something                               |
 | Justin Gosses    | Standing on the shoulders of the guy in the UK office|
 | Paige Bailey     | Machine learning opportunities in the geosciences |
+| Matteo Niccoli   | COmputer vision lessons for geoscientists         |
