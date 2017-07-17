@@ -21,21 +21,23 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |    7  | Chris Ennen      | Software, software everywhere       |             |
 |    8  | Sergey Fomel     | Reproducible research               |             |
 |    9  | GRAM             | Seismic data encryption             |             |
-|   10  | Dave Hale        | My favourite 10 line program        |             |
-|   11  | John Leeman      | Hardware is hard: teaching geotech  |             |
-|   12  | Bill Menger      | The steady advance of Linux         |             |
-|   13  | Bill Menger      | Software challenges in oil & gas    |             |
-|   14  | Matteo Niccoli   | A fault colourmap prototype         |             |
-|   15  | Steve Purves     | Learn JavaScript!                   |             |
-|   16  | Alan Richardson  | Use standard file & problem formats |             |
-|   17  | Alberto Rusic    | I hate computers 1                  |             |
-|   18  | Alberto Rusic    | I hate computers 2                  |             |
-|   19  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   20  | James Selvage    | Serverless computing                |             |
-|   21  | Andrew D. Steen  | Teaching geoscientists to code      |
-|   22  | Martin Storey    | De profundis: of well depth         |             |
-|   23  | John Thurmond    | The tyranny of formats              |             |   
-|   24  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+|   10  | Gosses           | Standing on the shoulders of the guy in the UK office |       | 
+|   11  | Dave Hale        | My favourite 10 line program        |             |
+|   12  | John Leeman      | Hardware is hard: teaching geotech  |             |
+|   13  | Bill Menger      | The steady advance of Linux         |             |
+|   14  | Bill Menger      | Software challenges in oil & gas    |             |
+|   15  | Matteo Niccoli   | A fault colourmap prototype         |             |
+|   16  | Steve Purves     | Learn JavaScript!                   |             |
+|   17  | Alan Richardson  | Use standard file & problem formats |             |
+|   18  | Alberto Rusic    | I hate computers 1                  |             |
+|   19  | Alberto Rusic    | I hate computers 2                  |             |
+|   20  | Hassan Sabirin   | Quality checking spatial data       |             |
+|   21  | James Selvage    | Serverless computing                |             |
+|   22  | Andrew D. Steen  | Teaching geoscientists to code      |
+|   23  | Martin Storey    | De profundis: of well depth         |             |
+|   24  | John Thurmond    | The tyranny of formats              |             |   
+|   25  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+
 
 
 ## Wish list
@@ -68,6 +70,6 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matt Hall        | Hackathons and similar events                         |
 | Matt Hall        | What's so special about geoscience?                   |
 | Evan Bianco      | Something something                                   |
-| Justin Gosses    | Standing on the shoulders of the guy in the UK office |
 | Paige Bailey     | Machine learning opportunities in the geosciences     |
 | Rowan Cockett    | That's not research                                   |
+| Matteo Niccoli   | Computer vision tutorials for geoscientists       |
