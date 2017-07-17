@@ -39,6 +39,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   25  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 
 
+
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
@@ -70,3 +71,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matt Hall        | What's so special about geoscience?               |
 | Evan Bianco      | Something something                               |
 | Paige Bailey     | Machine learning opportunities in the geosciences |
+| Matteo Niccoli   | Computer vision tutorials for geoscientists       |

@@ -1,4 +1,4 @@
-# Prototype fault colormaps
+# Prototype colormaps for fault interpretation
 
 Matteo Niccoli
 
