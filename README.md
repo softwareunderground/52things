@@ -28,15 +28,16 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   14  | Bill Menger      | Software challenges in oil & gas    |             |
 |   15  | Matteo Niccoli   | A fault colourmap prototype         |             |
 |   16  | Steve Purves     | Learn JavaScript!                   |             |
-|   17  | Alan Richardson  | Use standard file & problem formats |             |
-|   18  | Alberto Rusic    | I hate computers 1                  |             |
-|   19  | Alberto Rusic    | I hate computers 2                  |             |
-|   20  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   21  | James Selvage    | Serverless computing                |             |
-|   22  | Andrew D. Steen  | Teaching geoscientists to code      |
-|   23  | Martin Storey    | De profundis: of well depth         |             |
-|   24  | John Thurmond    | The tyranny of formats              |             |   
-|   25  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+|   17  | Michael Pyrcz    | Open source geostatistical geomodeling |             |
+|   18  | Alan Richardson  | Use standard file & problem formats |             |
+|   19  | Alberto Rusic    | I hate computers 1                  |             |
+|   20  | Alberto Rusic    | I hate computers 2                  |             |
+|   21  | Hassan Sabirin   | Quality checking spatial data       |             |
+|   22  | James Selvage    | Serverless computing                |             |
+|   23  | Andrew D. Steen  | Teaching geoscientists to code      |
+|   24  | Martin Storey    | De profundis: of well depth         |             |
+|   25  | John Thurmond    | The tyranny of formats              |             |   
+|   26  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 
 
 
