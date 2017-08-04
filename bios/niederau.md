@@ -1,0 +1,4 @@
+Jan is a PhD Student at the Institute for Applied Geophysics and Geothermal Institute at the RWTH-Aachen University, Germany. His research topic focuses on geothermal reservoir simulation, and how to assess (and quantify) uncertainties of those _exploration models_. During his work as a Phd Student, he self-taught how to code, and learned multiple languages (to different degree of proficiency). 
+His weapon of choice is Python, but Fortran, R, and Julia are also not alien to him.
+Next to his research, teaching is Jan's passion during his days at the University. He's taught many courses on geothermics, geophysics, and to some extent petrology.
+During his teaching sessions, he was often confronted with geo-students, who saw Matlab, or an IDE, for the first time. So he started teaching geo-students to code.
