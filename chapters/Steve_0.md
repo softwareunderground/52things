@@ -18,7 +18,7 @@ http.get('/trace/1110/2128/samples',
 	({data, offset}) => data.map(sample => sample - offset))
 	.then(trace => plot(trace))
 
-for a comparitive example see: //link.to.js.bin
+Here's a comparitive example; [ES5](https://jsbin.com/dadena/edit?js,console) and [ES2015+](https://jsbin.com/misobet/47/edit?js,console)
 
 ## Rethinking the server
 Javascript is not just for the browser. [node.js](//www.modejs.com/) is a fast, efficient JS runtime that you can use for practically anything from scription to web scale application servers. Node comes with (at the time of writing) the largest collection of packages in the world accessible through the [npm](//www.npmjs.com) package manager. 
