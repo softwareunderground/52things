@@ -7,9 +7,9 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 
 **Reviewers**, please see [Reviewing submissions](Reviewing_submissions.md).
 
-
 ## Submissions for review
 
+=======
 | Thing | Author           | Working title                       | Reviewed by |
 | ----- | ---------------- | ----------------------------------- | ----------- |
 |    1  | Martin Bentley   | In praise of small tools            |             |
@@ -39,8 +39,6 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   25  | John Thurmond    | The tyranny of formats              |             |   
 |   26  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 
-
-
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
@@ -59,8 +57,8 @@ If you have a topic you wish someone would write about, please add it here:
 - How tech ubiquity is changing geoscientific observation.
 - 5 libraries for geophysicists: obspy, madagascar, simpeg, vispy, etc.
 - 5 libraries for geologists: pynoddy, qgis, pygmt, pandas/welly/striplog, etc.
+- Is the subsurface a Graph? (ask the author of noddy/pynoddy)
 - 5 libraries for geobiologists: dplyr, magrittr (maybe), tidyr, vegan, ggplot2
-
 
 ## Promises, promises
 
@@ -75,3 +73,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Rowan Cockett    | That's not research                                   |
 | Matteo Niccoli   | Computer vision tutorials for geoscientists       |
 | Lindsey Heagy    | Sprint and refactor                                   |
+| Steve Purves     | Not the floating point |
