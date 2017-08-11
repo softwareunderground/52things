@@ -9,7 +9,6 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 
 ## Submissions for review
 
-=======
 | Thing | Author           | Working title                       | Reviewed by |
 | ----- | ---------------- | ----------------------------------- | ----------- |
 |    1  | Martin Bentley   | In praise of small tools            |             |
