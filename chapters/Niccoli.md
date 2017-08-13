@@ -40,10 +40,10 @@ The final version of the app, which I am planning to build using D3.js (http://d
 
 References
 
-Brown, A. (2012). Interpretation of Three-Dimensional Seismic Data. SEG Investigations in Geophysics, no. 9, 7th edition.
+[1] Brown, A. (2012). Interpretation of Three-Dimensional Seismic Data. SEG Investigations in Geophysics, no. 9, 7th edition.
 
-Sigmoid Function, Wolfram Mathworld. http://mathworld.wolfram.com/SigmoidFunction.html
+[2] Sigmoid Function, Wolfram Mathworld. http://mathworld.wolfram.com/SigmoidFunction.html
 
-Niccoli, M. (2014) Evaluate and compare colormaps. The Leading Edge 33, no. 8, 910–912. Open access at: https://github.com/seg/tutorials#august-2014
+[3] Niccoli, M. (2014) Evaluate and compare colormaps. The Leading Edge 33, no. 8, 910–912. Open access at: https://github.com/seg/tutorials#august-2014
 
-Bianco, E. (2014) Well tie calculus. The Leading Edge 33, no. 6, 674-677. Open access at: https://github.com/seg/tutorials#june-2014
+[4] Bianco, E. (2014) Well tie calculus. The Leading Edge 33, no. 6, 674-677. Open access at: https://github.com/seg/tutorials#june-2014
