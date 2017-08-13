@@ -30,9 +30,9 @@ To make the interface work, all elements are grouped together in a single functi
 
     interactive_plot = interact(sigmoid_demo, w=(-2.7,2.7,0.1));
 
-The command calls the sigmoid_demo function specifying a range for parameter w (in this example between the values of -2.7 and 2.7, in steps of 0.1; parameter c ins held constant since we want an antisymmetric colormap), which pre-generates all the results at once and activates the slider, allowing users to interact with these results. 
+The command calls the sigmoid_demo function specifying a range for parameter w (for the purposes of this demo chosen to be from -2.7 to 2.7, in steps of 0.1; the parameter c is held constant since we want an antisymmetric colormap), which pre-generates all the results at once and activates the slider, allowing users to interact with the tool. 
 
-As an aside, an alterantive to creating a sigmoid colormap, one could modify the seismic amplitudes directly by applying a sigmoid stretch; although I prefer the colormap approach, I show how to do thins in a third notebook, Scaling_seismic_sigmoid (https://github.com/mycarta/Sigmoid_app/blob/master/Scaling_seismic_sigmoid.ipynb).
+As an aside, an alterantive to creating a sigmoid colormap would be to modify directly the seismic amplitudes applying a sigmoid stretch; although I prefer the colormap approach, I show how to do thins in a third notebook, Scaling_seismic_sigmoid.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Scaling_seismic_sigmoid.ipynb).
 
 The final version of the app, which I am planning to build using D3.js (http://d3js.org/), will include the ability to save the colormap in a variety of formats, and also to import a 2D seismic section in either SEGY or ASCII format.
 
