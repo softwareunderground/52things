@@ -26,7 +26,7 @@ A second notebook, Sigmoid_function_experiments.ipynb, explores the effects of v
     (l_sigm [128]- l_sigm[127])*100
 
 In the example in the figure the contrast is negative 1.40 since Lightness decreases with increasing sample number. As a reference, the contrast in the standard gray scale is about 0.4. 
-To make the interface work, the elements 1 to 4 are grouped together in a single function, called sigmoid_demo in the notebook. The last element in the prototype, in the lower left in the figure, is an interactive slider created with IPywidgets with this line at the end of the notebook:
+To make the interface work, all elements are grouped together in a single function, called sigmoid_demo in Sigmoid_app_static.ipynb. The last element in the prototype, in the lower left in the figure, is an interactive slider created with IPywidgets with this line at the end of the notebook:
 
     interactive_plot = interact(sigmoid_demo, w=(-2.7,2.7,0.1));
 
