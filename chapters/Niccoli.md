@@ -44,6 +44,6 @@ References
 
 [2] Sigmoid Function, Wolfram Mathworld. http://mathworld.wolfram.com/SigmoidFunction.html
 
-[3] Niccoli, M. (2014) Evaluate and compare colormaps. The Leading Edge 33, no. 8, 910–912. Open access at: https://github.com/seg/tutorials#august-2014
+[3] Niccoli, M. (2014) Evaluate and compare colormaps. The Leading Edge 33, no. 8, 910–912. Open access at: https://github.com/seg/tutorials-2014#august-2014
 
-[4] Bianco, E. (2014) Well tie calculus. The Leading Edge 33, no. 6, 674-677. Open access at: https://github.com/seg/tutorials#june-2014
+[4] Bianco, E. (2014) Well tie calculus. The Leading Edge 33, no. 6, 674-677. Open access at: https://github.com/seg/tutorials-2014#june-2014
