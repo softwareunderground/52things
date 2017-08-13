@@ -21,7 +21,7 @@ _Figure 1 – Sigmoid gray scale app prototype._
 
 A second notebook, Sigmoid_function_experiments.ipynb, explores the effects of varying parameters c and w, and is available at https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_function_experiments.ipynb.
 
- In Figure 1, the sigmoid Lightness curve is plotted in the top left panel and the resulting colormap, created using tools described in [3], in the middle left panel. The right panel is a demo seismic section with faults - cross line 1155 from the Penobscot F3 3D, the same used in [4]). The Lightness contrast per sample in the central portion of the colormap is given in 4, and it is calculated as:
+ In Figure 1, the sigmoid Lightness curve is plotted in the top left panel and the resulting colormap, created using tools described in [3], in the middle left panel. The right panel is a demo seismic section with faults - cross line 1155 from the Penobscot F3 3D, the same used in [4]. The Lightness contrast per sample in the central portion of the colormap is given in 4, and it is calculated as:
     
     (l_sigm [128]- l_sigm[127])*100
 
