@@ -66,7 +66,7 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 
 | Author           | Topic or working title                                |
 | ---------------- | ----------------------------------------------------- |
-| Evan Bianco      | Something something                                   |
+| Evan Bianco      | The art of visualization                              |
 | Paige Bailey     | Machine learning opportunities in the geosciences     |
 | Rowan Cockett    | That's not research                                   |
 | Matt Hall        | Upgrade your human technology                         |
