@@ -74,6 +74,6 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matt Hall        | We're scientists not developers                       |
 | Matt Hall        | Learn some one-liners                                 |
 | Lindsey Heagy    | Sprint and refactor                                   |
-| Matteo Niccoli   | Computer vision tutorials for geoscientists           |
+| Matteo Niccoli   | Computer vision for fault interpretation              |
 | Steve Purves     | Not the floating point                                |
 
