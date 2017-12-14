@@ -41,7 +41,7 @@ nowadays to work effectively with unstructured grids, for example:
 [FreeFEM]: http://www.freefem.org
 [MFEM]: http://mfem.org
 [OpenFOAM]: http://www.openfoam.com
-[SeiSol]: http://www.seissol.org/
+[SeisSol]: http://www.seissol.org/
 [OpenGeoSys]: http://www.opengeosys.org/project/publications
 [RINGMesh]: http://ring.georessources.univ-lorraine.fr/software/ringmesh
 
@@ -55,7 +55,7 @@ engineering world.
 We suggest that a stronger reason holds in the classical quote attributed to Albert 
 Einstein: "Everything should be made as simple as possible, but not simpler". 
  
-* '''Geometry / discontinuities.''' 
+* **Geometry / discontinuities.** 
   Geological processes are a tremendous engine to create geometrically complex 
   changes of physical parameter fields; these changes can be quite abrupt, as two 
   rock samples 1cm away one from another may have been formed million years apart.  
@@ -72,8 +72,8 @@ Einstein: "Everything should be made as simple as possible, but not simpler".
   representation of subsurface geologic features is important to create benchmarks 
   such as the SEAM model; homogeneized parameter field on Cartesian grids can then 
   eventually become handy [Cupillard2015]. 
-* '''Adaptivity.''' 
-  With Cartesian grids, the grid block size corresponds '''everywhere''' to the size of 
+* **Adaptivity.** 
+  With Cartesian grids, the grid block size corresponds **everywhere** to the size of 
   the smallest feature that you want to represent. This is generally fine in two dimensions 
   (digital pictures have the same limitations and are still very good "digital eyes"), 
   but raises significant computational challenges in three-dimensional domains. 
@@ -95,7 +95,7 @@ geocomputing challenges.
 
 [Bonneau2016]: Bonneau F et al. (2016). Impact of a stochastic sequential initiation of fractures on the spatial correlations and connectivity of discrete fracture networks. Jornal of Geophysical Research, Solid Earth, 121:5641-5658. 
 [Cupillard2015]: Cupillard P et al (2015). Homogenization of 3d geological models for seismic wave propagation. In: SEG Technical Program Expanded Abstracts:3656-3660 
-[Nick2011]: Nick HM and Matth‰i SK (2011). Comparison of Three FE-FV Numerical Schemes for Single- and Two-Phase Flow Simulation of Fractured Porous Media. Transport in Porous Media, 90:421-444
+[Nick2011]: Nick HM and Matth√§i SK (2011). Comparison of Three FE-FV Numerical Schemes for Single- and Two-Phase Flow Simulation of Fractured Porous Media. Transport in Porous Media, 90:421-444
 [Sambridge2005]: Sambridge M and Rawlinson N. (2005). Seismic Tomography with Irregular Meshes. In: Seismic Earth: Array Analysis of Broadband Seismograms, AGU:49-65
 
 
