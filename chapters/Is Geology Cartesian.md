@@ -63,7 +63,7 @@ Einstein: "Everything should be made as simple as possible, but not simpler".
   approximated in Cartesian grids as stair-steps. This may (or may not) be 
   a problem, depending on the application at hand. Explicit representation of 
   geological objects can be essential to focus on geological details deemed important 
-  for a particular purpose. This is examplified for instance in the area of fracture 
+  for a particular purpose. This is exemplified for instance in the area of fracture 
   modeling. Studying  fracture growth, quantifying fault reactivation and displacement 
   needs an acurate geometric representation. The connectivity of fractures is also a very important 
   point when it comes to understand subsurface flow. As fractures seldom align on 
