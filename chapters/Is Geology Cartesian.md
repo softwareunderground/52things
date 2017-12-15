@@ -45,7 +45,7 @@ nowadays to work effectively with unstructured grids, for example:
 [OpenGeoSys]: http://www.opengeosys.org/project/publications
 [RINGMesh]: http://ring.georessources.univ-lorraine.fr/software/ringmesh
 
-![Fig. 1](../Caumon.png "Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.")
+![Fig. 1](../figures/Caumon.png "Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.")
 
 Why did unstructured grids come up? This may be explained by some 
 fascination for pretty pictures and a form of mathematical beauty of these meshes. 
