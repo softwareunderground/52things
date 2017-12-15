@@ -45,7 +45,7 @@ nowadays to work effectively with unstructured grids, for example:
 [OpenGeoSys]: http://www.opengeosys.org/project/publications
 [RINGMesh]: http://ring.georessources.univ-lorraine.fr/software/ringmesh
 
-![Fig. 1](Meshes.jpg "Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.")
+![Fig. 1](../Caumon.png "Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.")
 
 Why did unstructured grids come up? This may be explained by some 
 fascination for pretty pictures and a form of mathematical beauty of these meshes. 
@@ -94,8 +94,11 @@ geocomputing challenges.
 ## References
 
 [Bonneau2016]: Bonneau F et al. (2016). Impact of a stochastic sequential initiation of fractures on the spatial correlations and connectivity of discrete fracture networks. Jornal of Geophysical Research, Solid Earth, 121:5641-5658. 
+
 [Cupillard2015]: Cupillard P et al (2015). Homogenization of 3d geological models for seismic wave propagation. In: SEG Technical Program Expanded Abstracts:3656-3660 
+
 [Nick2011]: Nick HM and Matthäi SK (2011). Comparison of Three FE-FV Numerical Schemes for Single- and Two-Phase Flow Simulation of Fractured Porous Media. Transport in Porous Media, 90:421-444
+
 [Sambridge2005]: Sambridge M and Rawlinson N. (2005). Seismic Tomography with Irregular Meshes. In: Seismic Earth: Array Analysis of Broadband Seismograms, AGU:49-65
 
 
