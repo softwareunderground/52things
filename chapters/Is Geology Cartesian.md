@@ -8,7 +8,7 @@ by discrete points, some associated values, and their neighborhood relationships
 connect the points. 
  
 Grids typically implement these principles, but which grids should be 
-used in geocomputing? Cartesian grids have many qualities, owing to their
+used in geocomputing (*Fig. 1*)? Cartesian grids have many qualities, owing to their
 structure and regularity. Neighborhoods are trivially defined. 
 Many great image processing algorithms, geophysical methods, geostatistical 
 algorithms, and other useful numerical techniques directly apply to 
@@ -46,6 +46,7 @@ nowadays to work effectively with unstructured grids, for example:
 [RINGMesh]: http://ring.georessources.univ-lorraine.fr/software/ringmesh
 
 ![Fig. 1](../figures/Caumon.png "Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.")
+*Figure 1*: Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.
 
 Why did unstructured grids come up? This may be explained by some 
 fascination for pretty pictures and a form of mathematical beauty of these meshes. 
