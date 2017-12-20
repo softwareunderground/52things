@@ -16,29 +16,34 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |    3  | Austin Bingham   | Domain-driven design in geocomputing|             |
 |    4  | Ben Bougher      | Am = d: a linear algebra approach...|             |
 |    5  | Bert Bril        | Putting colours on data             |             |
-|    6  | Jesper Dramsch   | General purpose GPU programming     |             |
-|    7  | Chris Ennen      | Software, software everywhere       |             |
-|    8  | Sergey Fomel     | Reproducible research               |             |
-|    9  | GRAM             | Seismic data encryption             |             |
-|   10  | Gosses           | Standing on the shoulders...        |             | 
-|   11  | Dave Hale        | My favourite 10 line program        |             |
-|   12  | Matt Hall        | What's so special about geoscience? |             | 
-|   13  | John Leeman      | Hardware is hard: teaching geotech  |             |
-|   14  | Neil McNaughton  | 'Digitalization,' from Harry Nyquist... |         |
-|   15  | Bill Menger      | The steady advance of Linux         |             |
-|   16  | Bill Menger      | Software challenges in oil & gas    |             |
-|   17  | Matteo Niccoli   | A fault colourmap prototype         |             |
-|   18  | Steve Purves     | Learn JavaScript!                   |             |
-|   19  | Michael Pyrcz    | Open source geostatistical geomodeling |          |
-|   20  | Alan Richardson  | Use standard file & problem formats |             |
-|   21  | Alberto Rusic    | I hate computers 1                  |             |
-|   22  | Alberto Rusic    | I hate computers 2                  |             |
-|   23  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   24  | James Selvage    | Serverless computing                |             |
-|   25  | Andrew D. Steen  | Teaching geoscientists to code      |             |
-|   26  | Martin Storey    | De profundis: of well depth         |             |
-|   27  | John Thurmond    | The tyranny of formats              |             |   
-|   28  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+|    6  | Caumon & Levy    | Is geology Cartesian?               |             |
+|    7  | Jesper Dramsch   | General purpose GPU programming     |             |
+|    8  | Chris Ennen      | Software, software everywhere       |             |
+|    9  | Sergey Fomel     | Reproducible research               |             |
+|   10  | GRAM             | Seismic data encryption             |             |
+|   11  | Gosses           | Standing on the shoulders...        |             | 
+|   12  | Dave Hale        | My favourite 10 line program        |             |
+|   13  | Matt Hall        | What's so special about geoscience? |             | 
+|   14  | Eirik Larsen     | Crossplots on the boardroom table   |             |
+|   15  | John Leeman      | Hardware is hard: teaching geotech  |             |
+|   16  | Neil McNaughton  | 'Digitalization,' from Harry Nyquist... |         |
+|   17  | Bill Menger      | The steady advance of Linux         |             |
+|   18  | Bill Menger      | Software challenges in oil & gas    |             |
+|   19  | Matteo Niccoli   | A fault colourmap prototype         |             |
+|   20  | Jan Niederau     | Teaching geoscience students to code|             |
+|   21  | Didi Ooi         | Simple machine learning             |             |
+|   22  | Steve Purves     | Learn JavaScript!                   |             |
+|   23  | Michael Pyrcz    | Open source geostatistical geomodeling |          |
+|   24  | Alan Richardson  | Use standard file & problem formats |             |
+|   25  | Alberto Rusic    | I hate computers 1                  |             |
+|   26  | Alberto Rusic    | I hate computers 2                  |             |
+|   27  | Hassan Sabirin   | Quality checking spatial data       |             |
+|   28  | James Selvage    | Serverless computing                |             |
+|   29  | Andrew D. Steen  | Teaching geoscientists to code      |             |
+|   30  | Martin Storey    | De profundis: of well depth         |             |
+|   31  | John Thurmond    | The tyranny of formats              |             |   
+|   32  | Miguel de la Varga | Geological modeling in Python     |             |   
+|   33  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 
 ## Wish list
 
