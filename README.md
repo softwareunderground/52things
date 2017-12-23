@@ -65,6 +65,7 @@ If you have a topic you wish someone would write about, please add it here:
 - 5 libraries for geologists: pynoddy, qgis, pygmt, pandas/welly/striplog, etc.
 - Is the subsurface a Graph? (ask the author of noddy/pynoddy)
 - 5 libraries for geobiologists: dplyr, magrittr (maybe), tidyr, vegan, ggplot2
+- Innovative geo-solutions: Your organization fears change, so now what?
 
 ## Promises, promises
 
@@ -82,3 +83,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matteo Niccoli   | Computer vision for fault interpretation              |
 | Steve Purves     | Not the floating point                                |
 | Tom Creech | The analog(ue) scientist's best frenemy |
+| Tom Creech + any takers? | Geocomputing at enterprise scale |
