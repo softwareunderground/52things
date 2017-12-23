@@ -81,4 +81,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Lindsey Heagy    | Sprint and refactor                                   |
 | Matteo Niccoli   | Computer vision for fault interpretation              |
 | Steve Purves     | Not the floating point                                |
-
+| Tom Creech | The analog(ue) scientist's best frenemy |
