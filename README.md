@@ -44,6 +44,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   31  | John Thurmond    | The tyranny of formats              |             |   
 |   32  | Miguel de la Varga | Geological modeling in Python     |             |   
 |   33  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+|   34  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing |             |
 
 ## Wish list
 
