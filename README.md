@@ -44,7 +44,10 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   31  | John Thurmond    | The tyranny of formats              |             |   
 |   32  | Miguel de la Varga | Geological modeling in Python     |             |   
 |   33  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
-|   34  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing |             |
+|   34  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing |  |
+|   35  | Andrew Pethick   | The obsolete geoscientist           |             |
+|   36  | Matt Hall        | What is geocomputing? (Blog post)   |             |
+
 
 ## Wish list
 
@@ -78,10 +81,10 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Paige Bailey     | Machine learning opportunities in the geosciences     |
 | Rowan Cockett    | That's not research                                   |
 | Matt Hall        | Upgrade your human technology                         |
-| Matt Hall        | We're scientists not developers                       |
 | Matt Hall        | Learn some one-liners                                 |
 | Lindsey Heagy    | Sprint and refactor                                   |
 | Matteo Niccoli   | Computer vision for fault interpretation              |
 | Steve Purves     | Not the floating point                                |
-| Tom Creech | The analog(ue) scientist's best frenemy |
-| Tom Creech + any takers? | Geocomputing at enterprise scale |
+| Tom Creech       | The analog(ue) scientist's best frenemy               |
+| Tom Creech + any takers? | Geocomputing at enterprise scale              |
+| Clare Bond et al. | Digital outcrop                                      |
