@@ -44,6 +44,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   31  | John Thurmond    | The tyranny of formats              |             |   
 |   32  | Miguel de la Varga | Geological modeling in Python     |             |   
 |   33  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+|   34  | Adam Cawood et al. | Why use virtual outcrop?          |             |
 
 ## Wish list
 
@@ -82,5 +83,5 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Lindsey Heagy    | Sprint and refactor                                   |
 | Matteo Niccoli   | Computer vision for fault interpretation              |
 | Steve Purves     | Not the floating point                                |
-| Tom Creech | The analog(ue) scientist's best frenemy |
+| Tom Creech       | The analog(ue) scientist's best frenemy |
 | Tom Creech + any takers? | Geocomputing at enterprise scale |
