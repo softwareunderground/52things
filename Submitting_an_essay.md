@@ -2,7 +2,7 @@
 
 This page explains how to make a submission.
 
-- The deadline for submissions is 31 December 2017.
+- **The deadline for submissions is 31 March 2018.**
 - Read the [author instructions](https://www.agilelibre.com/authors).
 - Look at some existing chapters to see the style and follow it as closely as you can.
 - Chapters should be about 600 words. A figure or two is OK, and code is more than welcome.
