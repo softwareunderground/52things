@@ -48,6 +48,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   35  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing |  |
 |   36  | Andrew Pethick   | The obsolete geoscientist           |             |
 |   37  | Matt Hall        | What is geocomputing? (Blog post)   |             |
+|   38  | Matteo Niccoli   | Computer vision for fault interpretation (repo) | |
 
 ## Wish list
 
@@ -83,7 +84,6 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matt Hall        | Upgrade your human technology                         |
 | Matt Hall        | Learn some one-liners                                 |
 | Lindsey Heagy    | Sprint and refactor                                   |
-| Matteo Niccoli   | Computer vision for fault interpretation              |
 | Steve Purves     | Not the floating point                                |
 <<<<<<< HEAD
 | Tom Creech       | The analog(ue) scientist's best frenemy |
