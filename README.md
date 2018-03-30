@@ -85,11 +85,5 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matt Hall        | Learn some one-liners                                 |
 | Lindsey Heagy    | Sprint and refactor                                   |
 | Steve Purves     | Not the floating point                                |
-<<<<<<< HEAD
 | Tom Creech       | The analog(ue) scientist's best frenemy |
 | Tom Creech + any takers? | Geocomputing at enterprise scale |
-=======
-| Tom Creech       | The analog(ue) scientist's best frenemy               |
-| Tom Creech + any takers? | Geocomputing at enterprise scale              |
-| Clare Bond et al. | Digital outcrop                                      |
->>>>>>> 67f39ccbafbdd191ef93d0f555b1766be4d1d26f
