@@ -25,7 +25,7 @@ The two important lessons I learned from my Telegram bot are:
 
 And to reach it, here are some closing ideas.
 
-**Don't code alone.** I mean this in different ways: don't code only for your present self, but rather code for your future self. Don't code by yourself, but rather discuss your ideas and code snippets with others. Don't keep you code closed-source, but rather give it away with an open source license (for example using [MIT](https://opensource.org/licenses/MIT) or [Creative Commons](https://creativecommons.org/licenses/) licenses).
+**Don't code alone.** I mean this in different ways: don't code only for your present self, but rather code for your future self. Don't code by yourself, but rather discuss your ideas and code snippets with others. Don't keep your code closed-source, but rather give it away with an open source license (for example using [MIT](https://opensource.org/licenses/MIT) or [Creative Commons](https://creativecommons.org/licenses/) licenses).
 
 **Don't limit yourself to one language.** I'm a noob coder, and aim always to remain so because when I no longer am, I want to learn something new. I started with Java, Javascript, HTML and CSS, then came Python and R, and who knows where next. My point here is that you don't use an Estwing E3-20PC hammer to try to get a sample from a fresh gneiss (unless you want to buy a new hammer). And likewise, different programming languages are better suited for different tasks.
 
