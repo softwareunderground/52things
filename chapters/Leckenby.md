@@ -31,7 +31,7 @@ And to reach it, here are some closing ideas.
 
 **Be curious.** I guess you wouldn't be a geoscientist if you weren't curious, but the same is true in geocomputing, the list of resources out there that we can use to study the Earth is almost limitless, so yes: the sky *is* the limit, but don't forget to look down.
 
-## References and acknowledgments
+## References
 
 IonicaBizau / [scrape-it](https://github.com/IonicaBizau/scrape-it), A Node.js scraper for humans.
 
