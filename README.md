@@ -49,7 +49,8 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   36  | Andrew Pethick   | The obsolete geoscientist           |             |
 |   37  | Matt Hall        | What is geocomputing? (Blog post)   |             |
 |   38  | Matteo Niccoli   | Computer vision for fault interpretation (repo) | |
-|   39  | Jesse Pisel | Arm-wavers Anonymous | |
+|   39  | Jesse Pisel      | Arm-wavers Anonymous                |             |
+|   37  | Robert Leckenby  | My name is bot, geobot              |             |
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
