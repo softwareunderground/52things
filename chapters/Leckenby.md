@@ -12,7 +12,7 @@ I described to them how as a geologist who had just finished my first coding boo
 
 Beyond the realisation that I had *created something* new, I told these professional web designers, fullstack specialists and UI/UX pros just how similar we were:
 - Using open-source code is like reading published papers, it is essentialy '*standing on the shoulders of giants*' to quote Newton (and others) before me: every time you run an `import` statement at the top of your Javascript, Java or Python code, you are doing just that.
-- Programmers, like geoscientists, need to learn something new each and everyday of our professional lives. This is because both evolve in a community who are constantly pushing the boundaries of knowledge. And while none of us can even hope to keep up with the rate at which knowledge evolves, to stay current we must keep learning.
+- Programmers, like geoscientists, need to learn something new each and everyday of our professional lives. This is because both evolve in a community which is constantly pushing the boundaries of knowledge. And while none of us can even hope to keep up with the rate at which knowledge evolves, to stay current we must keep learning.
 - In both fields, we handle uncertainty, change and large volumes of data and we therefore have to observe, discuss, report and interpret all the time.
 
 So in short, whether you're looking at an outcrop or a section of code, chances are your data are incomplete, you and your neighbour have different opinions about the best way to tackle the problem (and chances are both approaches can work), you're going to have to make some interpretations and decisions and you'll have to tell someone about them. And in both cases, your actions are going *to have an impact*.
