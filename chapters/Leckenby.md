@@ -4,7 +4,7 @@
 
 ## It all starts with an impulsion
 
-The title I have chosen is recycled. It was the title of a talk I gave in a `Meetup` in Zürich in June 2017. The audience was made up predominantly of web designers and coders with 10+ years experience.
+The title I have chosen is recycled. It was the title of a talk I gave in a Meetup in Zürich in June 2017. The audience was made up predominantly of web designers and coders with 10+ years experience.
 
 I described to them how as a geologist who had just finished my first coding bootcamp, I had deployed a Telegram chatbot that could teach them about minerals! To reach this point, I'd taken my first steps in geocomputing: using open-source libraries ([scrape-it](https://github.com/IonicaBizau/scrape-it) and [TelegramBots](https://github.com/rubenlagus/TelegramBots)), and deploying my code under an [MIT open-source license](https://opensource.org/licenses/MIT), I'd written a Java Create-Read-Update-Delete (CRUD) application that had really bad architecture but that [still works!](http://telegram.me/geoLearnBot)
 
