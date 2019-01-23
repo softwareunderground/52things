@@ -35,7 +35,7 @@ The command calls the sigmoid_demo function specifying a range for parameter w (
 
 As an aside, an alterantive to creating a sigmoid colourmap would be to modify directly the seismic amplitudes applying a sigmoid stretch; although I prefer the colourmap approach, I show how to do thins in a third notebook, Scaling_seismic_sigmoid.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Scaling_seismic_sigmoid.ipynb).
 
-The final version of the app, which I am planning to build using D3.js (http://d3js.org/), will include the ability to save the colourmap in a variety of formats, and also to import a 2D seismic section in either SEGY or ASCII format.
+The final version of the app, which I am planning to build using Bokeh (https://bokeh.pydata.org/en/latest/), will include the ability to save the colourmap in a variety of formats, and also to import a 2D seismic section in either SEGY or ASCII format.
 
 
 
