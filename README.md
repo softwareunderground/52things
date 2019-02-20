@@ -49,13 +49,15 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   36  | Andrew Pethick   | The obsolete geoscientist           |             |
 |   37  | Matt Hall        | What is geocomputing? (Blog post)   |             |
 |   38  | Matteo Niccoli   | Computer vision for fault interpretation (repo) | |
-|   39  | Jesse Pisel | Arm-wavers Anonymous | |
+|   39  | Jesse Pisel      | Arm-wavers Anonymous                |             |
+
+
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
 
 - Three ways to get started in geocomputing.
-- Drop everything and learn X (Julia? Clojure?).
+- Drop everything and learn X (Julia? Clojure? vim?).
 - Getting started in HPC in 3 easy steps.
 - Only a quantum computer can do geology.
 - Geocomputing at enterprise scale.
@@ -80,6 +82,7 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | ---------------- | ----------------------------------------------------- |
 | Evan Bianco      | The art of visualization                              |
 | Paige Bailey     | Machine learning opportunities in the geosciences     |
+| Brian Burnham    | A history of virtual outcrops                         |
 | Rowan Cockett    | That's not research                                   |
 | Matt Hall        | Upgrade your human technology                         |
 | Matt Hall        | Learn some one-liners                                 |
