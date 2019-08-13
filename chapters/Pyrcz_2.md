@@ -30,4 +30,4 @@ Nwachukwu, A., Jeong, H., Sun, A., Pyrcz, M.J., Lake L.W., 2018, Fast evaluation
 
 Pyrcz, M.J., and Deutsch, C.V., 20014, Geostatistical reservoir modeling, Oxford University Press, p. 429.
 
-Ribeiro M.T., Singh, S. and Guestrin, C., 2016, Why Should I Trust You? Explaining the Predictions of Any Classi?er, doi: 10.1145/2939672.2939778 
+Ribeiro M.T., Singh, S. and Guestrin, C., 2016, Why Should I Trust You? Explaining the Predictions of Any Classier, doi: 10.1145/2939672.2939778 
