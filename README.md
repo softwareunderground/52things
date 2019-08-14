@@ -45,7 +45,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   32  | Miguel de la Varga | Geological modeling in Python     |             |   
 |   33  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 |   34  | Adam Cawood et al. | Why use virtual outcrop?          |             |
-|   35  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing |  |
+|   35  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing  | |
 |   36  | Andrew Pethick   | The obsolete geoscientist           |             |
 |   37  | Matt Hall        | What is geocomputing? (Blog post)   |             |
 |   38  | Matteo Niccoli   | Computer vision for fault interpretation (repo) | |
@@ -88,5 +88,6 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Matt Hall        | Learn some one-liners                                 |
 | Lindsey Heagy    | Sprint and refactor                                   |
 | Steve Purves     | Not the floating point                                |
-| Tom Creech       | The analog(ue) scientist's best frenemy |
-| Tom Creech + any takers? | Geocomputing at enterprise scale |
+| Tom Creech       | The analog(ue) scientist's best frenemy               |
+| Tom Creech + any takers? | Geocomputing at enterprise scale              |
+| Matteo Niccoli   | 10 Numpy lessons from a colourmap                     | 
