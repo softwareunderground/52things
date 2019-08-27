@@ -18,10 +18,16 @@ Geostatistical geomodelling is strongly algorithm-based; therefore, its practice
 
 Given these considerations, I often turn to open source geostatistical software for designing the numerical core of my geomodelling workflows. For example, the Geostatistical Software Library (GSLIB) by Deutsch and Journel (1989) offers a broad set of fundamental algorithms for data investigation, data debiasing, spatial characterization and modeling and model post-processing. Simple FORTRAN design and a common library of subroutines facilitates algorithm review in minutes. Furthermore, various contributors have expanded the original algorithm catalog with programs that address new developments in the field. Remy, Boucher and Wu (2011) have provided an updated Stanford Geostatical Modeling Software (SGeMS) that includes a graphical interface, 3-D visualization along with new modeling algorithms.
 
-In response to the Python tidal wave in the scientific community, various authors have developed packages such as pygeostat and geostatsmodeling. These packages utilize the original FORTRAN or C++ code libraries while enabling very flexible workflow design in Python. Additionally, geostatistical geomodelling workflow design in Python opens a world of opportunity through the various packages that support data investigation and cleaning, data mining, mathematical modeling, results summarization and promulgation. Therefore I use open source to do much of my geostatistical geomodelling.
+In response to the Python tidal wave in the scientific community, various authors have developed packages such as PyGSLIB (Vargas, 2019), GeostatsPy (Pyrcz et al., 2019) and geostatsmodels (Johnson, 2019). These packages utilize or reimplement the original GSLIB FORTRAN libraries while enabling very flexible workflow design in Python. Additionally, geostatistical geomodelling workflow design in Python opens a world of opportunity through the various packages that support data investigation and cleaning, data mining, mathematical modeling, results summarization and promulgation. Therefore I use (and contribute to) open source to do much of my spatial data analytics and geostatistical geomodelling.
 
 ## References
 
 Remy, N., Boucher, A., and Wu, J., 2011, Applied Geostatistics with SGeMS: A User’s Guide, Cambridge University Press, 286 p.
 
 Deutsch, C.V. and Journel, A.G., 1998, GSLIB: Geostatistical Software Library and User’s Guide. Oxford University Press, 384 p.
+
+Johnson, C., 2019, geostatsmodels, Python Package Index, https://github.com/cjohnson318/geostatsmodels.
+
+Pyrcz, M.J., Liu, W., Kupenko, A., and Gigliotti, A, 2019, GeostatsPy, Python Package Index, https://pypi.org/project/geostatspy/.
+
+Vargas, A.M., 2019, PyGSLIB, https://opengeostat.github.io/pygslib/.
