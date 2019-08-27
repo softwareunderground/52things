@@ -10,14 +10,14 @@ Geomorphic measurements are a great way to compare the ancient and modern system
 import numpy as np
 import matplotlib.pyplot as plt
 from IPython import display
-
+%matplotlib inline
 x=np.arange(0,2500,1)
 y=np.arange(-125,125,0.1)
 
-Gm=0.015
+Gm=0.001
 k=0.16
 I0=2250
-Ik=450
+Ik=50
 zerogrowth=Gm*np.tanh((I0*np.exp(-k*0))/Ik)
 
 for t in range (0,100000,1000):
@@ -28,10 +28,12 @@ for t in range (0,100000,1000):
     G=np.where(G>=zerogrowth,0.,G)
     y=np.add(y, G*1000)
     y=np.add(y,-0.25)
-    plt.plot(x,y)
-    plt.plot(x,sl)
+    ax1=plt.plot(x, y, c='k')
+    ax2=plt.plot(x, sl, c='b')
     display.clear_output(wait=True)
     plt.show()
+    plt.xlabel('Cross section distance (m)')
+    plt.ylabel('Elevation relative to sealevel (m)')
 ```
 
 The code above creates stratigraphy by updating topography based on carbonate growth at each time step. Run the model for a few thousand time steps and the topography becomes preserved stratigraphy. A few thousand to million time steps is enough to generate stratigraphy. In the computational models we save values such as topography to arrays that are later analyzed.
