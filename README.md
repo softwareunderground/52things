@@ -34,23 +34,25 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   21  | Didi Ooi         | Simple machine learning             |             |
 |   22  | Steve Purves     | Learn JavaScript!                   |             |
 |   23  | Michael Pyrcz    | Open source geostatistical geomodeling |          |
-|   24  | Alan Richardson  | Use standard file & problem formats |             |
-|   25  | Alberto Rusic    | I hate computers 1                  |             |
-|   26  | Alberto Rusic    | I hate computers 2                  |             |
-|   27  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   28  | James Selvage    | Serverless computing                |             |
-|   29  | Andrew D. Steen  | Teaching geoscientists to code      |             |
-|   30  | Martin Storey    | De profundis: of well depth         |             |
-|   31  | John Thurmond    | The tyranny of formats              |             |   
-|   32  | Miguel de la Varga | Geological modeling in Python     |             |   
-|   33  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
-|   34  | Adam Cawood et al. | Why use virtual outcrop?          |             |
-|   35  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing  | |
-|   36  | Andrew Pethick   | The obsolete geoscientist           |             |
-|   37  | Matt Hall        | What is geocomputing? (Blog post)   |             |
-|   38  | Matteo Niccoli   | Computer vision for fault interpretation (repo) | |
-|   39  | Jesse Pisel      | Arm-wavers Anonymous                |             |
-|       | Robert Leckenby  | My name is bot, geobot              |             |
+|   24  | Michael Pyrcz    | Machine learning for geological modeling |          |
+|   25  | Alan Richardson  | Use standard file & problem formats |             |
+|   26  | Alberto Rusic    | I hate computers 1                  |             |
+|   27  | Alberto Rusic    | I hate computers 2                  |             |
+|   28  | Hassan Sabirin   | Quality checking spatial data       |             |
+|   29  | James Selvage    | Serverless computing                |             |
+|   30  | Andrew D. Steen  | Teaching geoscientists to code      |             |
+|   31  | Martin Storey    | De profundis: of well depth         |             |
+|   32  | John Thurmond    | The tyranny of formats              |             |   
+|   33  | Miguel de la Varga | Geological modeling in Python     |             |   
+|   34  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
+|   35  | Adam Cawood et al. | Why use virtual outcrop?          |             |
+|   36  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing  | |
+|   37  | Andrew Pethick   | The obsolete geoscientist           |             |
+|   38  | Matt Hall        | What is geocomputing? (Blog post)   |             |
+|   39  | Matteo Niccoli   | Computer vision for fault interpretation (repo) | |
+|   40  | Jesse Pisel      | Arm-wavers Anonymous                |             |
+|   41  | Robert Leckenby  | My name is bot, geobot              |             |
+|   42  | Dewey Dunnington | Grammar of graphics                 |             |
 
 ## Wish list
 
@@ -63,11 +65,14 @@ If you have a topic you wish someone would write about, please add it here:
 - Geocomputing at enterprise scale.
 - Open sourcing a corporate software project.
 - Data standards, lol.
-- Geocomputing in the year 2028.
+- Geocomputing in the years 2010, 2020, 2030, and 2040.
+- Who are/were the pioneers of digital science?
+- (How) can machines learn physical (or conceptual?) models?
 - Teaching geoscientists to code: Everything Drew Steen said is wrong
 - Thank you for the state-of-the-art processing, I will now proceed to interpret it incorrectly.
 - Units -sigh- let's start using pint (like metpy), astropy, or _something_.
 - How tech ubiquity is changing geoscientific observation.
+- 5 math concepts for digital geoscientists: probability, linear algebra, machine learning, graph theory, set theory
 - 5 libraries for geophysicists: obspy, madagascar, simpeg, vispy, etc.
 - 5 libraries for geologists: pynoddy, qgis, pygmt, pandas/welly/striplog, etc.
 - Is the subsurface a Graph? (ask the author of noddy/pynoddy)
