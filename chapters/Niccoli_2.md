@@ -2,17 +2,12 @@
      
 Matteo Niccoli
 
-Chapter needs to be adapted (and shortened) for the book from [this Jupyter notebook](http://nbviewer.jupyter.org/github/mycarta/faults/blob/master/fun_with_faults.ipynb)
+Chapter in progress.
 
-Planned small improvements (good to have for chapter):
-- add calculation of dip done in Python
-- filter dip angles based on  Von Mises distribution rather than mean and standar deviation of angles
+It will be a combination of these two notebooks:
 
-Longer term imporvements (not necessary to chapter):
-- eliminating skeleton artifacts (minutiae)
-- using amplitude or discontinuity slices
-- semiautomatic frequency filtering of acquisition footprint
+[fun with faults](https://github.com/mycarta/faults/blob/master/fun_with_faults.ipynb)
+[segyio basic tutorial](https://github.com/mycarta/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb)
 
-Will pick it up after Calgary Geoconvention 2018
-
+Goal is to show how to pick faults semi-automatically on a 3D seismic discontinuity volume, and from those derive fault proximity and fault density attributes, using 3D image morphology techniques.
 
