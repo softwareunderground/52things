@@ -53,6 +53,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   40  | Jesse Pisel      | Arm-wavers Anonymous                |             |
 |   41  | Robert Leckenby  | My name is bot, geobot              |             |
 |   42  | Dewey Dunnington | Grammar of graphics                 |             |
+|   43  | Matteo Niccoli   | X Numpy lessons from a colourmap    |             |
 
 ## Wish list
 
@@ -94,5 +95,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Lindsey Heagy    | Sprint and refactor                                   |
 | Steve Purves     | Not the floating point                                |
 | Tom Creech       | The analog(ue) scientist's best frenemy               |
-| Tom Creech + any takers? | Geocomputing at enterprise scale              |
-| Matteo Niccoli   | 10 Numpy lessons from a colourmap                     | 
+| Tom Creech + any takers? | Geocomputing at enterprise scale              | 
