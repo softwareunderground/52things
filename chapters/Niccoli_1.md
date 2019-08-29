@@ -6,7 +6,7 @@ This article describes the ongoing process of building an interactive colourmap 
 
 There are two stages in the app creation process: developing the individual elements separately (the sigmoid function, plotting routines, et cetera), and assembling them into a user interface. The code below shows the function that creates the sigmoid Lightness curve and how it is called.
 
-    def sigmoid(x,c,w):
+    def sigmoid_demo(x,c,w):
       sgm = 1/(1+np.exp(-(x-c)/w))
       return (sgm-min(sgm))/(max(sgm)-min(sgm))
     
@@ -17,9 +17,9 @@ There are two stages in the app creation process: developing the individual elem
    
 The shape of the sigmoid is controlled by the equation in line 02 using two parameters: c, the position of the central ramp, and w, its width (which in turn determines the contrast); x is the sample number, defined in line 04 prior to calling the function. The resulting curve is normalized in line 03 to the range 0-1 (Lightness range for Matplotlib colourmaps). The function is called in line 05 to create a 256x1 Lightness array. The commands in lines 06 and 07 create two 256x1 arrays of zeros for Hue and Saturation.
 
-The notebook Sigmoid_function_experiments.ipynb dmonstrate the effects of varying the parameters c and w in different ways, and is available at https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_function_experiments.ipynb.
+The Jupyter notebook Sigmoid_function_experiments.ipynb dmonstrate the effects of varying the parameters c and w in different ways, and is available at https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_function_experiments.ipynb.
 
-The full app prototype, built using the interactive tools from the IpyWidgets module, is available in the accompanying Jupyter notebook Sigmoid_app_static.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_app_static_new.ipynb). A screen capture is shown in Figure 1.
+The full app prototype, built using the interactive tools from the IpyWidgets module, is available in the Jupyter notebook Sigmoid_app_static_new.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_app_static_new.ipynb). A screen capture is shown in Figure 1 (notice that in this notebook, the parameter c is held fixed at a value of 5).
 
 _Figure 1 – Sigmoid gray scale app prototype._
 (https://github.com/softwareunderground/52things/blob/master/figures/niccoli_figure1.png)
