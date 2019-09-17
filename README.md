@@ -21,9 +21,9 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |    8  | Chris Ennen      | Software, software everywhere       |             |
 |    9  | Sergey Fomel     | Reproducible research               |             |
 |   10  | GRAM             | Seismic data encryption             |             |
-|   11  | Gosses           | Standing on the shoulders...        |             | 
+|   11  | Gosses           | Standing on the shoulders...        |             |
 |   12  | Dave Hale        | My favourite 10 line program        |             |
-|   13  | Matt Hall        | What's so special about geoscience? |             | 
+|   13  | Matt Hall        | What's so special about geoscience? |             |
 |   14  | Eirik Larsen     | Crossplots on the boardroom table   |             |
 |   15  | John Leeman      | Hardware is hard: teaching geotech  |             |
 |   16  | Neil McNaughton  | 'Digitalization,' from Harry Nyquist... |         |
@@ -54,6 +54,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   41  | Robert Leckenby  | My name is bot, geobot              |             |
 |   42  | Dewey Dunnington | Grammar of graphics                 |             |
 |   43  | Matteo Niccoli   | X Numpy lessons from a colourmap    |             |
+|   44  | George Bisbas    | Getting started in HPC in 3 easy steps    |             |
 
 ## Wish list
 
@@ -61,7 +62,6 @@ If you have a topic you wish someone would write about, please add it here:
 
 - Three ways to get started in geocomputing.
 - Drop everything and learn X (Julia? Clojure? vim?).
-- Getting started in HPC in 3 easy steps.
 - Only a quantum computer can do geology.
 - Geocomputing at enterprise scale.
 - Open sourcing a corporate software project.
@@ -95,4 +95,4 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Lindsey Heagy    | Sprint and refactor                                   |
 | Steve Purves     | Not the floating point                                |
 | Tom Creech       | The analog(ue) scientist's best frenemy               |
-| Tom Creech + any takers? | Geocomputing at enterprise scale              | 
+| Tom Creech + any takers? | Geocomputing at enterprise scale              |
