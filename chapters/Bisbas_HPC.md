@@ -19,15 +19,22 @@ In these cases as well as a lot more ones, what is needed is computer power than
 
 
 # Advantages of HPC
-Although HPC systems often have slightly more powerful processors, more memory and more storage the real additional power comes from using the resources in parallel rather than in serial.
-
-Using an HPC system often has the following advantages for researchers:
+Although HPC systems often have slightly more powerful processors, more memory and more storage the real additional power comes from using the resources in parallel rather than in serial. Using an HPC system often has the following advantages for researchers:
 
 * Speed. With many more processing cores, often with higher performance specs, than a typical laptop or desktop, HPC systems can offer significant speed up.
 * Volume. Many HPC systems have both the processing memory (RAM) and disk storage to handle very large amounts of data. Terabytes of RAM and petabytes of storage are available for research projects.
 * Efficiency. Many HPC systems operate a pool of resources that are drawn on by a many users. In most cases when the pool is large and diverse enough the resources on the system are used almost constantly.
 * Cost. Bulk purchasing and government funding mean that the cost to the research community for using these systems in significantly less that it would be otherwise.
 * Convenience. Maybe your calculations just take a long time to run or are otherwise inconvenient to run on your personal computer. There’s no need to tie up your own computer for hours when you can use someone else’s instead.
+
+# Getting started in the world of HPC
+
+Getting familiar with HPC is not easy and is not meant to be achieved through this chapter. In order to get a first taste o HPC we suggest following these tutorials:
+
+* OpenMP tutorial: https://computing.llnl.gov/tutorials/openMP/
+* MPI tutorial https://mpitutorial.com/tutorials/
+* CUDA tutorial https://www.tutorialspoint.com/cuda/index.htm
+
 
 
 ## References
