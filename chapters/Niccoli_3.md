@@ -1,4 +1,4 @@
-X Numpy lessons from making a perceptual colormaps
+Some advice on reproducing figures
 
 Chapter in progress (80% done) in a private repo.
 
