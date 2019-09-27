@@ -49,11 +49,11 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   36  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing  | |
 |   37  | Andrew Pethick   | The obsolete geoscientist           |             |
 |   38  | Matt Hall        | What is geocomputing? (Blog post)   |             |
-|   39  | Matteo Niccoli   | Computer vision for fault interpretation (repo) | |
+|   39  | Matteo Niccoli   | Designing a geophysical filter (repo) | |
 |   40  | Jesse Pisel      | Arm-wavers Anonymous                |             |
 |   41  | Robert Leckenby  | My name is bot, geobot              |             |
 |   42  | Dewey Dunnington | Grammar of graphics                 |             |
-|   43  | Matteo Niccoli   | X Numpy lessons from a colourmap    |             |
+|   43  | Matteo Niccoli   | Some advice on reproducing figures  |             |
 |   44  | George Bisbas    | Getting started in HPC in 3 easy steps    |             |
 |   45  | Evan Saltman     | Speeding things up                  |             |
 
