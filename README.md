@@ -55,6 +55,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   42  | Dewey Dunnington | Grammar of graphics                 |             |
 |   43  | Matteo Niccoli   | X Numpy lessons from a colourmap    |             |
 |   44  | George Bisbas    | Getting started in HPC in 3 easy steps    |             |
+|   45  | Evan Saltman     | Speeding things up                  |             |
 
 ## Wish list
 
