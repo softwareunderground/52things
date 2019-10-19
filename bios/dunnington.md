@@ -1,0 +1,2 @@
+
+Dewey is an geoscientist and programmer based in Halifax, Nova Scotia. As early as age 8, Dewey was simultaneously fascinated with the outdoors, and was disassembling computers in his spare time; as an adult, he researches the geochemical composition of lake sediments, and builds software for environmental research in his spare time. Dewey is currently pursuing his Ph.D. in the Centre for Water Resources Studies at Dalhousie University, blogging at fishandwhistle.net, and tweeting as @paleolimbot.
