@@ -31,9 +31,9 @@ for t in range (0,100000,1000):
     ax1=plt.plot(x, y, c='k')
     ax2=plt.plot(x, sl, c='b')
     display.clear_output(wait=True)
-    plt.show()
     plt.xlabel('Cross section distance (m)')
     plt.ylabel('Elevation relative to sealevel (m)')
+    plt.show()
 ```
 
 The code above creates stratigraphy by updating topography based on carbonate growth at each time step. Run the model for a few thousand time steps and the topography becomes preserved stratigraphy. A few thousand to million time steps is enough to generate stratigraphy. In the computational models we save values such as topography to arrays that are later analyzed.
