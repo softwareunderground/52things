@@ -56,6 +56,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   43  | Matteo Niccoli   | Some advice on reproducing figures  |             |
 |   44  | George Bisbas    | Getting started in HPC in 3 easy steps    |             |
 |   45  | Evan Saltman     | Speeding things up                  |             |
+|   46  | Darren Kondrat   | Getting started in Geocomputing can seem daunting...|             |
 
 ## Wish list
 
