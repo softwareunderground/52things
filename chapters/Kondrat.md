@@ -37,7 +37,7 @@ Here is code and chart of one of my first projects, figure 1, to demonstrate how
     cbar.set_label("Gamma Ray")
     plt.title('Simple Crossplot')
 
-Figure 1. Scatterplot of a DTSonic vs DTShear values colored by gamma ray and symbol size set by porosity.
+[Figure 1](https://github.com/softwareunderground/52things/blob/master/figures/Kondrat_fig1.pdf). Scatterplot of a DTSonic vs DTShear values colored by gamma ray and symbol size set by porosity.
 
 Of course, learning to code is essential and there are many ways to make it easy. There are a ton of great books for beginners to professionals. Look at a few and pick one that you like, some people like simplified guides, others like technical references. I know everything is online but there is nothing like having a book that you can highlight and dogear pages for quick and easy referencing next to your keyboard. Interactive learning is amazing too, download an app and quickly walk through the tutorials. I used Sololearn to learn the basics of python. It explains what you need to do and quickly has you practicing writing code within minutes. You can even do this on your phone. As well, there are a plethora of online courses. I found a free one through the public library. It was great and I focussed as many assignments on my projects as I could. If you’re in a hurry or prefer a classroom environment, you can pay for a course or two. It’s great to get face to face with an instructor and peers to ask questions and gain some contacts for future help.
 
