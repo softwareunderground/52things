@@ -57,6 +57,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   44  | George Bisbas    | Getting started in HPC in 3 easy steps    |             |
 |   45  | Evan Saltman     | Speeding things up                  |             |
 |   46  | Darren Kondrat   | Getting started in Geocomputing can seem daunting...|             |
+|   47  | Ágoston Sasvári   | The Phoenix |             |
 
 ## Wish list
 
