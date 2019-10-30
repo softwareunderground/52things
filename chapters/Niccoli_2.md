@@ -1,8 +1,8 @@
-Designing a geophysical filter (repo)
+Designing a geophysical filter
      
-Chapter in progress (70% done) in a private repo.
+Chapter in progress (90% done) in a private repo.
 
 Documents the progress in making of a TKK filter to remove acquisition footprint in seismic data.
 
-From an early Matlab implementation to a Python version.
+From an early Matlab implementation to a fully functioning, interactive Python version.
 
