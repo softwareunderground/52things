@@ -58,7 +58,8 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   45  | Evan Saltman     | Speeding things up                  |             |
 |   46  | Darren Kondrat   | Getting started in Geocomputing can seem daunting...|             |
 |   47  | Ágoston Sasvári   | The Phoenix |             |
-
+|   48  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 1   |             |
+|   49  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 2   |             |
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
