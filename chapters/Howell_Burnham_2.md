@@ -21,6 +21,6 @@ Buckley, S. J.,Vallet, J.,Braathen, A. & Wheeler,W. 2008. Oblique helicopter-bas
 
 Buckley, S.J., Ringdal, K., Naumann, N., Dolva, B., Kurz, T.H., Howell, J.A., Dewez, T.J.B., 2019. LIME: Software for 3-D visualization, interpretation, and communication of virtual geoscience models, _Geosphere_, 15(1): 222-235
 
-Hodgetts, D., Seers, T., Head, W., and Burnham, B.S., 2015, High performance visualisation of multiscale geological outcrop data in single software environment, in _77th European Association of Geoscientists and Engineers (EAGE) Conference and Exhibition: Proceedings for the 2015 EAGE meeting_, Madrid, Spain, https://doi.org/10.3997/2214-4609.201412862.
+Hodgetts, D., Seers, T., Head, W., and Burnham, B.S., 2015, High performance visualisation of multiscale geological outcrop data in single software environment, in _77th European Association of Geoscientists and Engineers (EAGE) Conference and Exhibition: Proceedings for the 2015 EAGE meeting_, Madrid, Spain.
 
 Kurz, T.H., Buckley S.J. & Howell J.A. 2013. Close-range hyperspectral imaging for geological field studies: workflow and methods, International Journal of Remote Sensing, 34:5, 1798-1822
