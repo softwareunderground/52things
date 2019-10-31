@@ -15,6 +15,7 @@ The advent of SfM also coincided with the emergence of cheap consumer UAVs (dron
 ### The Future 
 The Virtual Geoscience Revolution is in its early days; as more people adopt the technologies, significant advances will come. Virtual Field trips, Virtual Reality, Machine Learning and automated interpretation under taken by Artificial Intelligent systems, vast datasets (Big Data) and cloud-based repositories are all coming. These technologies are fundamentally changing outcrop geology; the future of envisaging the subsurface is once again very exciting! 
 
+### References
 Bellian, J. A., Kerans, C.,  Jennette, D. C., 2005. Digital outcrop models: applications of terrestrial scanning lidar technology in stratigraphic modeling. _Journal of  Sedimentary Research_, 75(2), pp. 166-176.
 
 Buckley, S. J.,Vallet, J.,Braathen, A. & Wheeler,W. 2008. Oblique helicopter-based laser scanningfor digital terrain modelling and visualisation of geo-logical outcrops. _International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences_,37, (Part B4), 493– 498.
