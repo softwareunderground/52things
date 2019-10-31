@@ -17,6 +17,6 @@ Soon after Aiken et al. were building their models, terrestrial LIDAR appeared o
 ### References
 Bellian, J. A., Kerans, C., Jennette, D. C., 2005. Digital outcrop models:  applications of terrestrial scanning lidar technology in stratigraphic modeling. _Journal of Sedimentary Research_, 75(2), pp. 166-176.
 
-Dreyer, T., Falt, L., Høy, T., Knarud, R., Steel, R., & Cuevas, J-L. [1993] Sedimentary Architecture of Field Analogues for Reservoir Information (SAFARI): a case study of the fluvial Escanilla Formation, Spanish Pyrenees. In Flint, S.S. & Bryant, I.D. (Eds), _The Geological Modelling of Hydrocarbon Reservoirs and Outcrop Analogues International Association of Sedimentologists Special Publication_. London, 15, 57-79. 
+Dreyer, T., Falt, L., Høy, T., Knarud, R., Steel, R., & Cuevas, J-L. 1993. Sedimentary Architecture of Field Analogues for Reservoir Information (SAFARI): a case study of the fluvial Escanilla Formation, Spanish Pyrenees. In Flint, S.S. & Bryant, I.D. (Eds), _The Geological Modelling of Hydrocarbon Reservoirs and Outcrop Analogues International Association of Sedimentologists Special Publication_. London, 15, 57-79. 
 
-Winchester, S. (2001). The Map That Changed the World: William Smith and the Birth of Modern Geology. Harper Collins, New York.
+Winchester, S. 2001. The Map That Changed the World: William Smith and the Birth of Modern Geology. Harper Collins, New York.
