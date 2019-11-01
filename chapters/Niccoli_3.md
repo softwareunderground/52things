@@ -1,4 +1,4 @@
-Some advice on reproducing figures
+## Some advice on reproducing figures
 
 Chapter in progress (90% done) in a private repo.
 
@@ -12,3 +12,5 @@ Get the plots right. Figure out the specific plotting stuff to replicate the fig
 Extra work. Go further, add interactivity for others to experiment with it
 Test the results. Test on the data that come with the paper, if possible, or other data (model and real)
 Pay back. Share your results. It with a permissive license, ideally CC-BY
+
+Jupyter notebook [here](https://github.com/mycarta/Reproducing-exponential-grayscale-cmap/blob/master/How_to_make_exponetial_grayscale.ipynb)
