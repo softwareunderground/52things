@@ -60,6 +60,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   47  | Ágoston Sasvári   | The Phoenix |             |
 |   48  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 1   |             |
 |   49  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 2   |             |
+|   50  | Tyler Newton   | Human neural networks in geocomputing |             |
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
