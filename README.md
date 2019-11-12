@@ -61,6 +61,8 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   48  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 1   |             |
 |   49  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 2   |             |
 |   50  | Tyler Newton   | Human neural networks in geocomputing |             |
+|   51  | Rowan Cockett  | Building Technical Communication Tools |             |
+
 ## Wish list
 
 If you have a topic you wish someone would write about, please add it here:
@@ -94,7 +96,6 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Evan Bianco      | The art of visualization                              |
 | Paige Bailey     | Machine learning opportunities in the geosciences     |
 | Brian Burnham    | A history of virtual outcrops                         |
-| Rowan Cockett    | That's not research                                   |
 | Matt Hall        | Upgrade your human technology                         |
 | Matt Hall        | Learn some one-liners                                 |
 | Lindsey Heagy    | Sprint and refactor                                   |
