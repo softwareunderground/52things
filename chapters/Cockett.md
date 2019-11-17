@@ -16,3 +16,5 @@ These projects range from educational visualization apps to geophysical research
 All three of these principles are interrelated and reinforce each other. For example, the focus on components allows for documentation and testing of those components; this improves accessibility, allowing the community to grow. Furthermore, the necessary combinable components are often revealed through the process of refactoring ideas to support new case-studies that have come in through community contribution or application.
 
 I believe that the technical communication of ideas, be it through prose, conversation or software, is foundational to making progress in our geoscience discipline. As such, the tools that we build to further geocomputing should endeavour to foster accessible, interoperable, combinable communities.
+
+A version of this article can be found at https://row1.ca/creating-technical-communication-tools.
