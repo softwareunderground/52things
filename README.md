@@ -62,7 +62,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   49  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 2   |             |
 |   50  | Tyler Newton   | Human neural networks in geocomputing |             |
 |   51  | Rowan Cockett  | Building Technical Communication Tools |             |
-|   51  | Steve Rogers  | Advice from a fractured reservoir modeler |             |
+|   52  | Steve Rogers  | Advice from a fractured reservoir modeler |             |
 
 ## Wish list
 
