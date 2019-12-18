@@ -6,7 +6,7 @@ We've done our best to make it easy to submit. You can write to the editor, Matt
 
 ## Making a submission
 
-- **The deadline for submissions is 31 October 2019.**
+- **Submissions are closed. If you think you have a contribution to make, please contact Matt Hall or Matteo Niccoli.**
 - Read the [author instructions](https://www.agilelibre.com/authors).
 - Look at some existing chapters to see the style and follow it as closely as you can.
 - Chapters should be about 600 words. A figure or two is OK, and code is more than welcome.
