@@ -6,8 +6,5 @@ It documents the progress in making of a [tutorial](https://github.com/mycarta/2
 
 
 Example in [Figure 1](https://github.com/softwareunderground/52things/blob/master/figures/Niccoli_2_Figure1_placeholder.png)
-
-From an early Matlab implementation to a fully functioning, interactive Python version.
-
-Discuss theory and practice of Fourier transofrm and image processing used.
+Discusses theory and practice of 2D Fourier transform and image processing used.
 
