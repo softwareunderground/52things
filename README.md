@@ -49,7 +49,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   36  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing  | |
 |   37  | Andrew Pethick   | The obsolete geoscientist           |             |
 |   38  | Matt Hall        | What is geocomputing? (Blog post)   |             |
-|   39  | Matteo Niccoli   | Designing a geophysical filter (repo) | |
+|   39  | Matteo Niccoli   | Keep on improving your geocomputing projects | |
 |   40  | Jesse Pisel      | Arm-wavers Anonymous                |             |
 |   41  | Robert Leckenby  | My name is bot, geobot              |             |
 |   42  | Dewey Dunnington | Grammar of graphics                 |             |
