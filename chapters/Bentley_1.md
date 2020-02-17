@@ -3,7 +3,7 @@
 Martin Bentley
  
 Given the huge scope of geological problems, it is not reasonable to assume that all 
-problems can be solved using large, monolithic problems. The requirements of a geochemist 
+of these can be solved using large, monolithic solutions. The requirements of a geochemist 
 will be different to the requirements of a structural geologist. As such, they will work with 
 different computational approaches. However, even within a given field, different problems 
 need to be solved, so your monolithic tool that can handle gravity models does not work with 
