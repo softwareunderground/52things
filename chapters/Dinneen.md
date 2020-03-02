@@ -20,6 +20,7 @@ Trace headers in the file needs a label, a byte header location and a format sta
 Is this data openfile, proprietary or multi-client? Who owns the data. Who can I contact about buying it?
 
 An example of such a header is shown below in figure 1.
+Link to figure: https://github.com/softwareunderground/52things/blob/master/figures/Dinneen_Figure1.png
 
 The textual header IS the location this information. Filenames are lost when data is transcribed to tape. Internal datamodels of geotechnical software rarely allow attaching reports and documents to seismic data. It is only by embedding this vital information in the most visible part of the file that you can be sure that is will be kept with your data, forever.
 
