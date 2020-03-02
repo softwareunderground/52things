@@ -63,6 +63,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   50  | Tyler Newton   | Human neural networks in geocomputing |             |
 |   51  | Rowan Cockett  | Building Technical Communication Tools |             |
 |   52  | Steve Rogers  | Advice from a fractured reservoir modeler |             |
+|   53  | Chris Dinneen   | SEGY: Judging books by their covers  |             |
 
 ## Wish list
 
