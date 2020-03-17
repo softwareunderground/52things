@@ -1,8 +1,12 @@
-## Thank you for thinking about writing for 52 Things!
+# Thank you for thinking about writing for 52 Things!
 
-This page explains how to make a submission.
+We're collecting advice and stories &mdash; the sort of honest, candid advice and stories you usually only hear in pubs &mdash; about geocomputing. 'Geocomputing' is anything in the insection of computers and rocks, or code and earth science. Someone, somewhere sent you to this page because they think you have a story, or can share some advice, that others in the community will want to read.
 
-- The deadline for submissions is 30 June 2017.
+We've done our best to make it easy to submit. You can write to the editor, Matt, at matt@agilescientific.com. You can make a pull request to this repo. Or yu can probably get back to the person who sent you this way. And don't worry too much about style or layout or anything like that: we love editing! (We'll run the edited version by you, of course.)
+
+## Making a submission
+
+- **Submissions are closed. If you think you have a contribution to make, please contact Matt Hall or Matteo Niccoli.**
 - Read the [author instructions](https://www.agilelibre.com/authors).
 - Look at some existing chapters to see the style and follow it as closely as you can.
 - Chapters should be about 600 words. A figure or two is OK, and code is more than welcome.

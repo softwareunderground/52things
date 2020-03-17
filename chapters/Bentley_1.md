@@ -3,7 +3,7 @@
 Martin Bentley
  
 Given the huge scope of geological problems, it is not reasonable to assume that all 
-problems can be solved using large, monolithic problems. The requirements of a geochemist 
+of these can be solved using large, monolithic solutions. The requirements of a geochemist 
 will be different to the requirements of a structural geologist. As such, they will work with 
 different computational approaches. However, even within a given field, different problems 
 need to be solved, so your monolithic tool that can handle gravity models does not work with 
@@ -20,7 +20,7 @@ example of this would be:
     cat data.csv | grep ­i ‘sio2’ > silica.csv
  
 This will print the entirety of `data.csv`, but then will search for any lines with ‘sio2’ in them. 
-This is then put into a new file, named `silica.sv`. 
+This is then put into a new file, named `silica.csv`. 
  
 My perfect geocomputing world would be arranged similarly. Imagine starting with your 
 datafile, and running it through a series of small programs. Each of these programs would 

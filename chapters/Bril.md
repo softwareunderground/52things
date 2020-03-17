@@ -16,7 +16,7 @@ And of course there’s more yet. There’s always more. Take colour blending. M
 
 ## Figure
 
-![figure](bril_figure.png)
+![figure](https://github.com/softwareunderground/52things/blob/master/figures/bril_figure.png)
 
 _Top to bottom adding 5% clipping, histogram equalisation, doubling.
 Note that grey scales are shown because there’s no colour in the ‘52 things’._

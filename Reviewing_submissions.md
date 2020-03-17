@@ -2,7 +2,7 @@
 
 This document explains how to review, and what we need from reviewers.
 
-We will try to wait for one review on each article before we edit the piece. Then we'll try to get another read-through by the reviewer. So far (on 5 April) nothing has been edited.
+We will try to wait for one review on each article before we edit the piece. Then we'll try to get another read-through by the reviewer.
 
 
 ## What we need

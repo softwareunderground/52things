@@ -1,0 +1,2 @@
+﻿
+Darren Kondrat is a senior consulting geophysicist and has been finding oil and gas in Canada for 30 years. He is President of Rockyview GeoServices and is working with some great E&P companies. He started playing with Python to create essential tools for his consulting services, with a focus on quantitative interpretation. Darren graduated from the University of Calgary with a BSc in Geophysics and obtained an MBA from Athabasca University. He is Professional Geophysicist registered with APEGA.

@@ -1,0 +1,2 @@
+
+Dewey is an geoscientist and programmer based in Halifax, Nova Scotia. Dewey’s environmental research investigates the mechanisms that control toxic metal concentrations in lakes, while his programming has led him to develop mobile applications, web apps, and R packages. He is a former RStudio intern and one of the many authors of ggplot2. Dewey is currently pursuing his Ph.D. in the Centre for Water Resources Studies at Dalhousie University, blogging at fishandwhistle.net, and tweeting as @paleolimbot.
