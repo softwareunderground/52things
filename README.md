@@ -16,23 +16,6 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |    3  | Austin Bingham   | Domain-driven design in geocomputing|             |
 |    4  | Ben Bougher      | Am = d: a linear algebra approach...|             |
 |    5  | Bert Bril        | Putting colours on data             |             |
-<<<<<<< HEAD
-|    6  | Jesper Dramsch   | General purpose GPU programming     |             |
-|    7  | Chris Ennen      | Software, software everywhere       |             |
-|    8  | Sergey Fomel     | Reproducible research               |             |
-|    9  | GRAM             | Seismic data encryption             |             |
-|   10  | Dave Hale        | My favourite 10 line program        |             |
-|   11  | John Leeman      | Hardware is hard: teaching geotech  |             |
-|   12  | Bill Menger      | The steady advance of Linux         |             |
-|   13  | Bill Menger      | Software challenges in oil & gas    |             |
-|   14  | Matteo Niccoli   | A fault colourmap prototype         |             |
-|   15  | Alberto Rusic    | I hate computers 1                  |             |
-|   16  | Alberto Rusic    | I hate computers 2                  |             |
-|   17  | Hassan Sabirin   | Quality checking spatial data       |             |
-|   18  | Martin Storey    | De profundis: of well depth         |             |
-|   19  | John Thurmond    | The tyranny of formats              |             |
-|   20  | Jan Niederau     | Teaching geoscience students to code|             |
-=======
 |    6  | Caumon & Levy    | Is geology Cartesian?               |             |
 |    7  | Jesper Dramsch   | General purpose GPU programming     |             |
 |    8  | Chris Ennen      | Software, software everywhere       |             |
@@ -81,7 +64,6 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   51  | Rowan Cockett  | Building Technical Communication Tools |             |
 |   52  | Steve Rogers  | Advice from a fractured reservoir modeler |             |
 |   53  | Chris Dinneen   | SEGY: Judging books by their covers  |             |
->>>>>>> upstream/master
 
 ## Wish list
 
@@ -93,14 +75,10 @@ If you have a topic you wish someone would write about, please add it here:
 - Geocomputing at enterprise scale.
 - Open sourcing a corporate software project.
 - Data standards, lol.
-<<<<<<< HEAD
-- Geocomputing in the year 2028.
-=======
 - Geocomputing in the years 2010, 2020, 2030, and 2040.
 - Who are/were the pioneers of digital science?
 - (How) can machines learn physical (or conceptual?) models?
 - Teaching geoscientists to code: Everything Drew Steen said is wrong
->>>>>>> upstream/master
 - Thank you for the state-of-the-art processing, I will now proceed to interpret it incorrectly.
 - Units -sigh- let's start using pint (like metpy), astropy, or _something_.
 - How tech ubiquity is changing geoscientific observation.
