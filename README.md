@@ -31,6 +31,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   17  | Hassan Sabirin   | Quality checking spatial data       |             |
 |   18  | Martin Storey    | De profundis: of well depth         |             |
 |   19  | John Thurmond    | The tyranny of formats              |             |
+|   20  | Jan Niederau     | Teaching geoscience students to code|             |
 
 ## Wish list
 
@@ -44,7 +45,6 @@ If you have a topic you wish someone would write about, please add it here:
 - Open sourcing a corporate software project.
 - Data standards, lol.
 - Geocomputing in the year 2028.
-- Teaching geoscientists to code.
 - Thank you for the state-of-the-art processing, I will now proceed to interpret it incorrectly.
 - Units -sigh- let's start using pint (like metpy), astropy, or _something_.
 - How tech ubiquity is changing geoscientific observation.
