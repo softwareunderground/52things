@@ -1,4 +1,4 @@
-#A 5-minute introduction to HCP
+# A 5-minute introduction to HCP
 
 George Bisbas
 
