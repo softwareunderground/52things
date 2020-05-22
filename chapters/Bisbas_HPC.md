@@ -1,4 +1,4 @@
-# Getting started in HPC in 3 easy steps
+# A 5-minute introduction to HCP
 
 George Bisbas
 
