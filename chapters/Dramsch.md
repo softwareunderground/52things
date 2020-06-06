@@ -16,11 +16,11 @@ Working in parallel on different cores, means we have to be smart about dividing
 
 The image shows how CPUs have a lot of space for units for control and cache functionality. Whereas, the GPU uses most of the architecture for the processing functionality. | CC-BY NVidia
 
-Picking up on the analogy of 3rd graders, GPUs are a tad special to work with. When you tell your class to add three sequentially for three times, if you're lucky you'll get the right result of 3. This is a task badly suited for parallel computing, but sometimes it's necessary. Taking this into account, we have to think about memory management. That one slow kid in the class may be still working on the first part of the calculation, but communicate their result the loudest.
+Picking up on the analogy of 3rd graders, GPUs are a tad special to work with. When you tell your class to add three sequentially for three times, if you're lucky you'll get the right result of 9. This is a task badly suited for parallel computing, but sometimes it's necessary. Taking this into account, we have to think about memory management. That one slow kid in the class may be still working on the first part of the calculation, but communicate their result the loudest.
 
 GPUs work in quite a similar way, they only have very special kinds of cache (most are even read-only). So when we want our parallelized tasks to work with intermediate results, we have to force the GPUs to do so. Of course this synchronization should only be done when absolutely necessary. Additionally, the GPU programming languages have built-in operations that block the memory of a variable until it is modified. These so-called atomic operations save a lot of hassle.
 
-Memory management is important, when we go into GPU programming. It helps a lot to be fully aware of the hardware we deal with. GPUs work fundamentally different from CPUs and they caching and memory abilities. Learning about the structure of GPUs will enable us to write amazingly fast code.
+Memory management is important, when we go into GPU programming. It helps a lot to be fully aware of the hardware we deal with. GPUs work fundamentally different from CPUs and their caching and memory abilities. Learning about the structure of GPUs will enable us to write amazingly fast code.
 
 What we're talking about here is called General Purpose GPU (GPGPU) programming. There are dedicated languages from Nvidia (CUDA) and the other GPU hardware supplicants, as well as, an open alternative that hooks into these, called OpenCL. Utilizing those, there are possibilities opening up to build highly parallel versions of the most computationally expensive applications we have in seismic processing.
 
