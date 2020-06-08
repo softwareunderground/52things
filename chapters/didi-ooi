@@ -1,5 +1,4 @@
 # Simple Machine Learning: A Mini Tutorial  
-## Didi OOi
 
 Coming from a pure geology background in the undergraduate, without any statistics prerequisites – you can imagine the horror of jumping into a PhD that deals with a horde of data under geology supervisors! Here I would like to present to take us through the whole basic machine learning workflow, which includes the underrated exploratory data analysis (EDA). This is something I wished I had when I started my PhD and life I imagine, would be simpler. The goal for this multivariate analysis is to look for the highest independence between variables that correlate to produce the best predictor model.  
 
