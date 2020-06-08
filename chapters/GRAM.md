@@ -37,7 +37,7 @@ I recommend (at the time of writing) the following free encryption software:
 
 * To encrypt files symmetrically: AEScrypt ([https://www.aescrypt.com/](https://www.aescrypt.com/))
 * To encrypt files asymmetrically: GnuPG ([https://www.gnupg.org/](https://www.gnupg.org/))
-* To encrypt full disks on (gasp) Windows symmetrically: DiskCryptor ([https://diskcryptor.net/](https://diskcryptor.net/))
+* To encrypt full disks on (gasp) Windows symmetrically: DiskCryptor ([https://diskcryptor.net/](https://www.diskcryptor.org/))
 * To encrypt emails asymmetrically: OpenPGP via Enigmail ([https://www.enigmail.net/](https://www.enigmail.net/))
 
 Use them. They’re free, and their encryption protocols are unbreakable by modern standards. Seismic data is expensive and difficult to acquire. Remember, if it isn’t yours to give, don’t give it away.
