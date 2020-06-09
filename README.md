@@ -43,7 +43,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   30  | Andrew D. Steen  | Teaching geoscientists to code      |             |
 |   31  | Martin Storey    | De profundis: of well depth         |             |
 |   32  | John Thurmond    | The tyranny of formats              |             |   
-|   33  | Miguel de la Varga | Geological modeling in Python     |             |   
+|   33  | Miguel de la Varga & Alexander Schaaf| GemPy: 3D Structural Geomodeling in Python     |             |   
 |   34  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 |   35  | Adam Cawood et al. | Why use virtual outcrop?          |             |
 |   36  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing  | |

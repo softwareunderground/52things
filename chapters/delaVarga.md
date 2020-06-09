@@ -1,163 +1,124 @@
-# GemPy: 3D Geological Modelling in Python
+# GemPy: 3D Structural Geomodeling in Python
 
-Making 3D geological models is hard. Classical explicit models
-rely in the spatial vision of the modeller and their handcrafted
-nature makes almost impossible to update them as more
-information is obtained. Novel implicit modelling based on global
- interpolations solve many of this problems but so far they are
- implemented in commercial softwares which provide limited
- functionality through their interfaces or APIs.
+Making 3D geological models is hard. Classical explicit models rely on the
+expertise of the modeller and their manufactured nature makes them extremely
+tedious to update as more information is obtained. Implicit modelling based on
+global interpolations can solve many of these problems, but so far they have
+been implemented in commercial software only, making them often prohibitivly
+expensive for scientists. Also, proprietary geomodeling software tends to only
+provide limited functionality through their interfaces or APIs, limiting modern
+reproducible geocomputing workflows.
 
- Making a 3D geological models is hard, but making 50 different
- models for testing different hypothesis or 50000 models to get
- a complete description of the inherent uncertainty is much harder. And
- it was in this climate of frustration—as many other open-source
- projects—when GemPy was conceived.
+Making a 3D geomodel is hard, but making 50 different models for testing
+different hypotheses or 50000 models to get a complete description of the
+inherent model uncertainty is much harder. And it was in this climate of
+frustration and limitation—as is the case with many other open-source
+projects—when `GemPy` was conceived.
 
- GemPy is a Python library based on the potential fields method developed
- by Laujaunie et al (1997) and expanded during the following years by
- many others [1].
- This method interpolates interfaces points between formations or facies
- and poles—i.e perpendicular vectors to the layer dip—to create a potential
- field from which the domains (layers) can be extracted [Fig 2]. Additionally,
- by  conditioning this potential field and combination many of them it is
- possible to model faults and unconformities.
+`GemPy` is an open-source Python library based on the potential field method
+developed by Laujaunie et al (1997) [1] and expanded during the following years
+by many others. The method interpolates interface points and surface poles—i.e
+perpendicular vectors to the surface dip—to create a potential field from which
+the domains (e.g. layers) can be extracted [Fig 2]. And by conditioning this
+potential field and combining multiple of them, it is possible to model faults
+and unconformities.
 
-#### Simple Example
+## Example
 
-Here, it is shown how with a few lines of code we can obtain a geological model. This
-model is formed by 3 horizontal layers offset by an infinte fault:
+To create a `GemPy` model, we have to define its extent, the grid resolution to
+be used for discretization, as well as the input surface points and
+orientations, as well as the geological relations of the data.
 
 ```python
-# Importing gempy
 import gempy as gp
-
-# Reading a gempy data object
-geo_data = gp.read_pickle('BasicFault.pickle')
+geomodel = gp.create_model("Geomodel Name")
+gp.init_data(geomodel, extent, resolution, surfacepoints, orientations)
+geological_information = {
+    "Fault Series": 'Main Fault', 
+    "Stratigraphy Series": ('Sandstone 2', 'Siltstone', 'Shale', 'Sandstone 1')
+}
+gp.map_stack_to_surfaces(geomodel, geological_information)
+gp.set_interpolator(geomodel)
 ```
-The main data (data coordinates and values) are stored in Pandas Dataframes
+
+Then, we can compute the geomodel using
 
 ```python
-gp.get_raw_data(geo_data, 'foliations').head()
+gp.compute_model(geomodel)
 ```
 
-<div>
+and visualize the geomodel using `GemPy`'s 2D and 3D visualization functionality:
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>X</th>
-      <th>Y</th>
-      <th>Z</th>
-      <th>azimuth</th>
-      <th>dip</th>
-      <th>polarity</th>
-      <th>formation</th>
-      <th>series</th>
-      <th>order_series</th>
-      <th>G_x</th>
-      <th>G_y</th>
-      <th>G_z</th>
-      <th>isFault</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>917.45</td>
-      <td>1000.0</td>
-      <td>-1135.398</td>
-      <td>270.0</td>
-      <td>71.565</td>
-      <td>1</td>
-      <td>MainFault</td>
-      <td>fault</td>
-      <td>1</td>
-      <td>-0.948683</td>
-      <td>-1.742702e-16</td>
-      <td>0.316229</td>
-      <td>True</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>1450.00</td>
-      <td>1000.0</td>
-      <td>-1150.000</td>
-      <td>90.0</td>
-      <td>18.435</td>
-      <td>1</td>
-      <td>Reservoir</td>
-      <td>Rest</td>
-      <td>2</td>
-      <td>0.316229</td>
-      <td>1.936342e-17</td>
-      <td>0.948683</td>
-      <td>False</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-We can visualize the 3D data using vtk with the following function.
 ```python
-gp.visualize(geo_data)
+gp.plot.plot_2d(geomodel)
+gp.plot.plot_3d(geomodel)
 ```
-![png](../figures/GemPyInputData.png)
 
-Now we can categorize the data into different depositional series and faults.
+![png](../figures/gempy2d3d.png)
+
+As most other open-source projects, `GemPy` rests on the shoulders of powerful
+open-source libraries: `pandas` [2] for data management, `pyvista` [3] for 3-D
+visualization and `scikit-image` [4] for extracting 3D surfaces from the
+interpolated potential fields, to just name a few. Thus `GemPy` is annother
+example of how much can be accomplished by integrating the latest developments
+of the scientific community in the open-source software scene.
+
+One of the main motivations for the development of `GemPy` was to enable the
+seamless interoperability with other open-source software to enable uncertainty
+quantification of geomodels. Every object of `GemPy` is accessible and easy to
+modify, thus making stochastic simulations of any aspect of a geomodel
+straight-forward.
+
 ```python
-gp.set_data_series(geo_data, {"fault":geo_data.formations[4], 
-                              "Rest":np.delete(geo_data.formations, 4)},
-                    order_series = ["fault", "Rest"])
-```
-And we are ready to interpolate:
-```python
-interp_data = gp.InterpolatorInput(geo_data, u_grade=[3,3])
-sol = gp.compute_model(interp_data)
-gp.visualize(geo_data, pot_field=sol[1,:])
+stochasticmodel = StochasticModel(geomodel)
+
+for i in range(1000):
+    sample_data = stochasticmodel.sample()
+    stochasticmodel.modify(*sample_data)
+    gp.compute_model(geomodel)
 ```
 
-![png](../figures/GemPyOutput.png)
+![png](../figures/gempy_uncertainty.png)
 
+For stochastic simulations, computational performance is key. For this, `GemPy`
+was built using `theano` [6], and will soon be ported to `tensorflow`. Both
+libraries allow us to compute the geomodels on the GPU, significantly decreasing
+computational time. Our initial research purpose for `GemPy` was to learn
+uncertain geological models on additional information (e.g. gravity data,
+knowledge of the regional geology) using probabilistic machine learning
+(Bayesian networks). This is greatly helped by its seamless integration into
+`pymc3` [7], a probabilistic programming framework, allowing us to use
+gradient-based sampling methods to explore the Bayesian posterior model space
+efficiently.
 
-# 
-As any other open-source project, GemPy
- did not start from scratch. Pandas for data management [2], the
- Visualization Toolkit (vtk) for 3D visualization and manipulation [3],
- skimage for computing topology and extract 3D surfaces [4] or the use
-  of  pynoddy for simulating kinematics [5]; are only an
-  example of how much can be accomplish integrating what the latest developments
-   of the scientific community in the open-source scene.
-
- GemPy was born with 3D geological modelling as an inference problem
-  in mind. This means that automatic differentiation to compute gradients
-   and computational performance were key. To achieve this, GemPy is built
-   on top of Theano [6]. Theano is a Python library that allows to define
-   symbolically mathematical expressions to be optimized and differentiated.
-   If this were not enough the code is compile  either in C or CUDA for the use of
-   GPUs. The use of Theano opens up the integration with pymc3 [7] for a
-   fully Bayesian framework in geological modelling.
-
- But this is only the beginning. Making geological modelling open-source
- is another step towards an ecosystem were geological modeling, geophysical
- inversions and process simulations coexist moving from deterministic
-  unique models to an automatic stochastic system of validation of hypothesis.
-
+But this is only the beginning. Making geological modelling open-source is
+another step towards an ecosystem were geological modelling, geophysical
+inversions and process simulations coexist, moving from deterministic unique
+models to an automatic stochastic system of validation of hypothesis - and where
+the reproducibility of structural geomodeling is not locked behind prohibitive
+paywalls.
 
 ## References 
 
-[1] Lajaunie, C., Courrioux, G., & Manuel, L. (1997). Foliation fields and 3D cartography in geology: principles of a method based on potential interpolation. Mathematical Geology, 29(4), 571-584.
+[1] Lajaunie, C., Courrioux, G., & Manuel, L. (1997). Foliation fields and 3D
+cartography in geology: principles of a method based on potential interpolation.
+Mathematical Geology, 29(4), 571-584.
 
-[2] McKinney, W. (2010, June). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51-56). Austin, TX: SciPy.
+[2] McKinney, W. (2010, June). Data structures for statistical computing in
+python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp.
+51-56). Austin, TX: SciPy.
 
-[3] Schroeder, W. J., Lorensen, B., & Martin, K. (2004). The visualization toolkit: an object-oriented approach to 3D graphics. Kitware.
+[3] Sullivan et al., (2019). PyVista: 3D plotting and mesh analysis through a
+streamlined interface for the Visualization Toolkit (VTK). Journal of Open
+Source Software, 4(37), 1450.
 
-[4] Boulogne, F., Warner, J. D., & Neil Yager, E. (2014). scikit-image: Image processing in Python.
+[4] Boulogne, F., Warner, J. D., & Neil Yager, E. (2014). scikit-image: Image
+processing in Python.
 
-[5] Wellmann, J. F., Thiele, S. T., Lindsay, M. D., & Jessell, M. W. (2015). pynoddy 1.0: an experimental platform for automated 3-D kinematic and potential field modelling. Geosci. Model Dev. Discuss, 8, 10011-10051.
+[6] Al-Rfou, R., Alain, G., Almahairi, A., Angermueller, C., Bahdanau, D.,
+Ballas, N., ... & Bengio, Y. (2016). Theano: A Python framework for fast
+computation of mathematical expressions. arXiv preprint.
 
-[6] Al-Rfou, R., Alain, G., Almahairi, A., Angermueller, C., Bahdanau, D., Ballas, N., ... & Bengio, Y. (2016). Theano: A Python framework for fast computation of mathematical expressions. arXiv preprint.
-
-[7] Salvatier, J., Wiecki, T. V., & Fonnesbeck, C. (2016). Probabilistic programming in Python using PyMC3. PeerJ Computer Science, 2, e55.
+[7] Salvatier, J., Wiecki, T. V., & Fonnesbeck, C. (2016). Probabilistic
+programming in Python using PyMC3. PeerJ Computer Science, 2, e55.
 
