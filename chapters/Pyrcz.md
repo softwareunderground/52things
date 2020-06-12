@@ -24,7 +24,7 @@ In response to the Python tidal wave in the scientific community, various author
 
 Remy, N., Boucher, A., and Wu, J., 2011, Applied Geostatistics with SGeMS: A User’s Guide, Cambridge University Press, 286 p.
 
-Deutsch, C.V. and Journel, A.G., 1998, GSLIB: Geostatistical Software Library and User’s Guide. Oxford University Press, 384 p.
+Deutsch, C.V. and Journel, A.G., 1997, GSLIB: Geostatistical Software Library and User’s Guide. Oxford University Press, 384 p.
 
 Johnson, C., 2019, geostatsmodels, Python Package Index, https://github.com/cjohnson318/geostatsmodels.
 
