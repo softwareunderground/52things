@@ -6,14 +6,16 @@ This article describes the ongoing process of building an interactive colourmap 
 
 There are two stages in the app creation process: developing the individual elements separately (the sigmoid function, plotting routines, et cetera), and assembling them into a user interface. The code below shows the function that creates the sigmoid Lightness curve and how it is called.
 
+```python
     def sigmoid_demo(x,c,w):
-      sgm = 1/(1+np.exp(-(x-c)/w))
-      return (sgm-min(sgm))/(max(sgm)-min(sgm))
+        sgm = 1/(1+np.exp(-(x-c)/w))
+        return (sgm-min(sgm))/(max(sgm)-min(sgm))
     
     x = np.linspace(0,10,256)
-    l_sigm = sigmoid(x,5,1)
+    l_sigm = sigmoid_demo(x,5,1)
     h_sigm = np.zeros(256)
     s_sigm = np.zeros(256)
+```
    
 The shape of the sigmoid is controlled by the equation in line 02 using two parameters: c, the position of the central ramp, and w, its width (which in turn determines the contrast); x is the sample number, defined in line 04 prior to calling the function. The resulting curve is normalized in line 03 to the range 0-1 (Lightness range for Matplotlib colourmaps). The function is called in line 05 to create a 256x1 Lightness array. The commands in lines 06 and 07 create two 256x1 arrays of zeros for Hue and Saturation.
 
