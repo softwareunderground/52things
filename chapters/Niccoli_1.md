@@ -17,11 +17,11 @@ h_sigm = np.zeros(256)
 s_sigm = np.zeros(256)
 ```
    
-The shape of the sigmoid is controlled by the equation in line 02 using two parameters: c, the position of the central ramp, and w, its width (which in turn determines the contrast); x is the sample number, defined in line 04 prior to calling the function. The resulting curve is normalized in line 03 to the range 0-1 (Lightness range for Matplotlib colourmaps). The function is called in line 05 to create a 256x1 Lightness array. The commands in lines 06 and 07 create two 256x1 arrays of zeros for Hue and Saturation.
+The shape of the sigmoid is controlled by the equation in line 02 using two parameters: `c`, the position of the central ramp, and `w`, its width (which in turn determines the contrast); `x` is the sample number, defined in line 04 prior to calling the function. The resulting curve is normalized in line 03 to the range 0-1 (Lightness range for Matplotlib colourmaps). The function is called in line 05 to create a 256x1 Lightness array. The commands in lines 06 and 07 create two 256x1 arrays of zeros for Hue and Saturation.
 
-The Jupyter notebook Sigmoid_function_experiments.ipynb dmonstrate the effects of varying the parameters c and w in different ways, and is available at https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_function_experiments.ipynb.
+The Jupyter notebook Sigmoid_function_experiments.ipynb demonstrate the effects of varying the parameters `c` and `w` in different ways, and is available at https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_function_experiments.ipynb.
 
-The full app prototype, built using the interactive tools from the IpyWidgets module, is available in the Jupyter notebook Sigmoid_app_static_new.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_app_static_new.ipynb). A screen capture is shown in Figure 1 (notice that in this notebook, the parameter c is held fixed at a value of 5).
+The full app prototype, built using the interactive tools from the IpyWidgets module, is available in the Jupyter notebook Sigmoid_app_static_new.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_app_static_new.ipynb). A screen capture is shown in Figure 1 (notice that in this notebook, the parameter `c` is held fixed at a value of 5).
 
 _Figure 1 – Sigmoid gray scale app prototype._
 (https://github.com/mycarta/52things/blob/master/figures/Niccoli_1_Figure1.png)
@@ -39,9 +39,9 @@ To make the interface work, all elements are grouped together in a single functi
 rslt = interactive(sigmoid_demo, w=FloatSlider(min=-2.7, max=2.7, step=0.1, value = 1))
 ```
 
-The command calls the sigmoid_demo function specifying a range for parameter w (for the purposes of this demo chosen to be from -2.7 to 2.7, in steps of 0.1; the parameter c is held constant since we want an antisymmetric colourmap), which pre-generates all the results at once and activates the slider, allowing users to interact with the tool, following the subsequent  command `display(rslt)`. Using `interactive` also allows access to the returned colormap array in later cells so that it can be exported.
+The command calls the sigmoid_demo function specifying a range for parameter w (for the purposes of this demo chosen to be from -2.7 to 2.7, in steps of 0.1; the parameter `c` is held constant since we want an antisymmetric colourmap), which pre-generates all the results at once and activates the slider, allowing users to interact with the tool, following the subsequent  command `display(rslt)`. Using `interactive` also allows access to the returned colormap array in later cells so that it can be exported.
 
-As an aside, an alterantive to creating a sigmoid colourmap would be to modify directly the seismic amplitudes applying a sigmoid stretch; although I prefer the colourmap approach, I show how to do thins in a third notebook, Scaling_seismic_sigmoid.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Scaling_seismic_sigmoid.ipynb).
+As an aside, an alterantive to creating a sigmoid colourmap would be to modify directly the seismic amplitudes applying a sigmoid stretch; although I prefer the colourmap approach, I show how to do this in a third notebook, Scaling_seismic_sigmoid.ipynb (https://github.com/mycarta/Sigmoid_app/blob/master/Scaling_seismic_sigmoid.ipynb).
 
 The final version of the app, which I am planning to build using Bokeh (https://bokeh.pydata.org/en/latest/), will include the ability to save the colourmap in a variety of formats, and also to import a user-defined seismic section in either SEGY or ASCII format.
 
