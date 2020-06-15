@@ -32,3 +32,4 @@ Recently, I started working with 3D printing as a hobby. As it turns out, the ST
 
 These days, there’s much more open sharing of code, and it’s easier than ever to find a format reader or converter already written for you, but I still see people thwarted by format conversion on a regular basis — for example, have a look at https://ageo.co/q2e3Wt.  Having even a rudimentary knowledge of programming and format conversion can be a skeleton key that opens up an incredible number of doors — sometimes even to unexpected places.
 
+_Could add figure if room_
