@@ -54,7 +54,7 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   41  | Robert Leckenby  | My name is bot, geobot              |             |
 |   42  | Dewey Dunnington | Grammar of graphics                 |             |
 |   43  | Matteo Niccoli   | Some advice on reproducing figures  |             |
-|   44  | George Bisbas    |A 5-minute introduction to HCP       |             |
+|   44  | George Bisbas    |A 5-minute introduction to HPC       |             |
 |   45  | Evan Saltman     | Speeding things up                  |             |
 |   46  | Darren Kondrat   | Getting started in Geocomputing can seem daunting...|             |
 |   47  | Ágoston Sasvári   | The Phoenix |             |
