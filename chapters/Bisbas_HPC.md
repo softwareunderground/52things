@@ -38,5 +38,5 @@ Getting familiar with HPC is not easy and is not meant to be achieved through th
 
 ## References
 
-* [Online]https://epcced.github.io/hpc-intro/00-why-hpc/, CC BY 4.0 license.
-
+* [Online]https://hpc-carpentry.github.io/hpc-shell/00-hpc-intro/index.html, CC BY 4.0 license.
+* [Online]https://rse.shef.ac.uk/hpc-shell-tuos-training-cluster/aio.html, CC BY 4.0 license.
