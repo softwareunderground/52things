@@ -34,7 +34,7 @@ In Figure 1, the sigmoid Lightness curve is plotted in the top-left panel. The r
 (l_sigm [128]- l_sigm[127])*100
 ```
 
-In the example in Figure 1, the contrast is -1.40 since Lightness decreases with increasing sample number. As a reference, the contrast in standard grayscale is about 0.4. 
+In the example in Figure 1, the contrast is -1.40 (negative) since Lightness decreases with increasing sample number. As a reference, the contrast in standard grayscale is about 0.4. 
 To make the interface work, all elements are grouped together in a single function called `sigmoid_demo` in `Sigmoid_app_static_new.ipynb`. The last element in the prototype, in the top-left in the figure, is an interactive slider created by this line at the end of the notebook:
 
 ```python
@@ -45,7 +45,7 @@ The command calls the `sigmoid_demo` function, specifying a range for parameter 
 
 As an aside, an alterantive to creating a sigmoid colourmap would be to directly modify the seismic amplitudes by applying a sigmoid stretch. Although I prefer the colourmap approach, I show how to do this in a third notebook named `Scaling_seismic_sigmoid.ipynb` (https://github.com/mycarta/Sigmoid_app/blob/master/Scaling_seismic_sigmoid.ipynb).
 
-I plan to build a future, final version of this app using Bokeh (https://bokeh.pydata.org/en/latest/). This will include the ability to save the colourmap in a variety of formats and to import a user-defined seismic section in either SEGY or ASCII format.
+I plan to build a future, final version of this app using Panel (https://panel.holoviz.org/). This will include the ability to save the colourmap in a variety of formats and to import a user-defined seismic section in either SEGY or ASCII format.
 
 
 
