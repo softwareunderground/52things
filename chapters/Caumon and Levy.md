@@ -47,7 +47,7 @@ nowadays to work effectively with unstructured grids, for example:
 [OpenGeode]: https://github.com/Geode-solutions/OpenGeode
 
 ![Fig. 1](../figures/Caumon.png "Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.")
-*Figure 1*: Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.
+*Figure 1*: Four possible meshes representing the same geological structure (a thrust fold in Corbieres): a Cartesian grid (A), a corner-point stratigraphic grid (B), a tetrahedral mesh (C) and a hybrid mesh (D). Courtesy of Arnaud Botella.
 
 Why did unstructured grids come up? This may be explained by some 
 fascination for pretty pictures and a form of mathematical beauty of these meshes. 
