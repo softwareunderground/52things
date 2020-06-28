@@ -1,4 +1,4 @@
-# Teaching geoscience students to code
+# Tailor your teaching with Jupyter Notebooks
 
 *By Jan Niederau*
 
