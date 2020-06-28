@@ -13,7 +13,7 @@
 
 ## Why Encrypt Seismic Data?
 
-If you transfer seismic data on unencrypted hard drives, (stop it, and) read this article. If your password is “password,” stop reading this article right now and go change it. seismic data costs money and people’s dedication to acquire; its unauthorized transfer is illegal and, more importantly, a waste of these people’s efforts and time.
+If you transfer seismic data on unencrypted hard drives, (stop it, and) read this article. If your password is “password,” stop reading this article right now and go change it. Seismic data costs money and people’s dedication to acquire; its unauthorized transfer is illegal and, more importantly, a waste of these people’s efforts and time.
 
 Not to mention money. A ton of money. By my calculations we only get about 4,800 bytes of seismic data for every dollar spent. The cost density of seismic data per byte isn’t quite up there with the Large-Hadron-Colliding, Higgs-Boson-finding cost density (2 bytes/dollar), but it’s still really high. It’d be pretty easy for the O’hare International baggage handlers to swap a bag containing forty million dollars worth of seismic (~200GB) onto the wrong flight. That’s a pretty tough story to tell your boss even if you weren’t wearing dirty socks. The story you should be telling instead is that you lost a fifty dollar hard drive that’s useless to anyone else because you encrypted the data.
 
@@ -36,8 +36,8 @@ There are few commercial encryption tools which are acceptable for use. That’s
 I recommend (at the time of writing) the following free encryption software:
 
 * To encrypt files symmetrically: AEScrypt ([https://www.aescrypt.com/](https://www.aescrypt.com/))
-* To encrypt files asymmetrically: GnuPG ([https://www.gnupg.org/](https://www.aescrypt.com/))
-* To encrypt full disks on (gasp) Windows symmetrically: DiskCryptor ([https://diskcryptor.net/](https://diskcryptor.net/))
+* To encrypt files asymmetrically: GnuPG ([https://www.gnupg.org/](https://www.gnupg.org/))
+* To encrypt full disks on (gasp) Windows symmetrically: DiskCryptor ([https://diskcryptor.net/](https://www.diskcryptor.org/))
 * To encrypt emails asymmetrically: OpenPGP via Enigmail ([https://www.enigmail.net/](https://www.enigmail.net/))
 
 Use them. They’re free, and their encryption protocols are unbreakable by modern standards. Seismic data is expensive and difficult to acquire. Remember, if it isn’t yours to give, don’t give it away.

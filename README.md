@@ -43,19 +43,27 @@ This is a second attempt at collecting 52 essays about geocomputing. [Here's the
 |   30  | Andrew D. Steen  | Teaching geoscientists to code      |             |
 |   31  | Martin Storey    | De profundis: of well depth         |             |
 |   32  | John Thurmond    | The tyranny of formats              |             |   
-|   33  | Miguel de la Varga | Geological modeling in Python     |             |   
+|   33  | Miguel de la Varga & Alexander Schaaf| GemPy: 3D Structural Geomodeling in Python     |             |   
 |   34  | Florian Wellmann | A Geological Model is a Hypothesis  |             |
 |   35  | Adam Cawood et al. | Why use virtual outcrop?          |             |
 |   36  | Dewey Dunnington | R, RStudio, and the tidyverse for Geocomputing  | |
 |   37  | Andrew Pethick   | The obsolete geoscientist           |             |
 |   38  | Matt Hall        | What is geocomputing? (Blog post)   |             |
-|   39  | Matteo Niccoli   | Designing a geophysical filter (repo) | |
+|   39  | Matteo Niccoli   | Keep on improving your geocomputing projects | |
 |   40  | Jesse Pisel      | Arm-wavers Anonymous                |             |
 |   41  | Robert Leckenby  | My name is bot, geobot              |             |
 |   42  | Dewey Dunnington | Grammar of graphics                 |             |
 |   43  | Matteo Niccoli   | Some advice on reproducing figures  |             |
-|   44  | George Bisbas    | Getting started in HPC in 3 easy steps    |             |
+|   44  | George Bisbas    |A 5-minute introduction to HPC       |             |
 |   45  | Evan Saltman     | Speeding things up                  |             |
+|   46  | Darren Kondrat   | Getting started in Geocomputing can seem daunting...|             |
+|   47  | Ágoston Sasvári   | The Phoenix |             |
+|   48  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 1   |             |
+|   49  | John Howell & Brian Burnham   | The Virtual Geoscience Revolution Pt. 2   |             |
+|   50  | Tyler Newton   | Human neural networks in geocomputing |             |
+|   51  | Rowan Cockett  | Building Technical Communication Tools |             |
+|   52  | Steve Rogers  | Advice from a fractured reservoir modeler |             |
+|   53  | Chris Dinneen   | SEGY: Judging books by their covers  |             |
 
 ## Wish list
 
@@ -90,7 +98,6 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Evan Bianco      | The art of visualization                              |
 | Paige Bailey     | Machine learning opportunities in the geosciences     |
 | Brian Burnham    | A history of virtual outcrops                         |
-| Rowan Cockett    | That's not research                                   |
 | Matt Hall        | Upgrade your human technology                         |
 | Matt Hall        | Learn some one-liners                                 |
 | Lindsey Heagy    | Sprint and refactor                                   |

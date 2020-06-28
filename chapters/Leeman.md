@@ -19,11 +19,11 @@ implications. How is that sensor really measuring the magnetic field? Does
 temperature affect the readings? What kinds of filtering are being done before
 the “raw” data is collected and shown to you (Figure 1)? Challenges like these
 often result in confused looks and the shrug of the shoulders from scientists,
-but as scientists we should be very concerned about our data, from the moment it
+but as scientists we should be very invested in our data, from the moment it
 is measured to the last bit of electron shuffling we do to get the figures on
 paper. Inspired by this sentiment, I developed a course that was taught at Penn
 State to graduate geoscience students, as well as made freely available online
-(http://tge.geoscience.tech).
+(https://tge.readthedocs.io/).
 
 Teaching any course is a lot of work, but this class turned out to be one of the
 most labor intensive tasks I’d tackle during grad school. In addition to the

@@ -25,7 +25,7 @@ designed specifically for our problems, but there are also many disadvantages.
 An expert in machine learning who has an idea for a new seismic inversion
 method would need to learn about SEG-Y files and find a tool (from the small
 range available) for reading them before the idea could be tested. If we instead
-stored seismic data in a more general and widely used format, such as NetCDF,
+stored seismic data in a more general and widely used format, such as HDF5,
 then there would be lower barriers to entry.
 
 A lot of geoscience problems involve using measurements to make predictions.

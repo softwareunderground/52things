@@ -29,7 +29,7 @@ Still, in addition to commercial software, several open-source packages exist
 nowadays to work effectively with unstructured grids, for example: 
  * Generic meshing and geometric libraries: [TetGen][], [GMSH][], [Geogram][], [MMG][], [CGAL][].
  * Numerical simulation packages: either generic ([Moose][], [FreeFEM][], [MFEM][]) or specialized ([OpenFOAM][], [SeisSol][]). 
- * Integrated geocomputing platforms: [OpenGeoSys][] , [RINGMesh][].
+ * Integrated geocomputing platforms: [OpenGeoSys][] , [RINGMesh][], [OpenGeode][].
 
 [TetGen]: http://wias-berlin.de/software/tetgen
 [GMSH]: http://gmsh.info
@@ -44,6 +44,7 @@ nowadays to work effectively with unstructured grids, for example:
 [SeisSol]: http://www.seissol.org/
 [OpenGeoSys]: http://www.opengeosys.org/project/publications
 [RINGMesh]: http://ring.georessources.univ-lorraine.fr/software/ringmesh
+[OpenGeode]: https://github.com/Geode-solutions/OpenGeode
 
 ![Fig. 1](../figures/Caumon.png "Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.")
 *Figure 1*: Four possible meshes representing the same geological structure (a thrust fold in Corbieres). Courtesy of Arnaud Botella.
@@ -94,9 +95,9 @@ geocomputing challenges.
 
 ## References
 
-[Bonneau2016]: Bonneau F et al. (2016). Impact of a stochastic sequential initiation of fractures on the spatial correlations and connectivity of discrete fracture networks. Jornal of Geophysical Research, Solid Earth, 121:5641-5658. 
+[Bonneau2016]: Bonneau F et al. (2016). Impact of a stochastic sequential initiation of fractures on the spatial correlations and connectivity of discrete fracture networks. Journal of Geophysical Research - Solid Earth, 121:5641-5658. 
 
-[Cupillard2015]: Cupillard P et al (2015). Homogenization of 3d geological models for seismic wave propagation. In: SEG Technical Program Expanded Abstracts:3656-3660 
+[Cupillard2018]: Cupillard P and Capdeville Y (2018). Non-periodic homogenization of 3-D elastic media for the seismic wave equation. Geophysical Journal International, 213(2):983-1001
 
 [Nick2011]: Nick HM and Matthäi SK (2011). Comparison of Three FE-FV Numerical Schemes for Single- and Two-Phase Flow Simulation of Fractured Porous Media. Transport in Porous Media, 90:421-444
 
