@@ -14,6 +14,6 @@ Pre-2010. In this very early stage, my goal was to apply concepts from mathemati
 
 2018 to 2020. I continued the work though more examples and I finally managed to get a good amount of coherent material together, which I am now happy to share as a tutorial [https://github.com/mycarta/2D_FFT_filter_tutorial/blob/master/52-things_tutorial.ipynb]. I also invited Elwyn Galloway to collaborate, with the idea of putting together a production workflow: faster computations [https://github.com/mycarta/2D_FFT_filter_tutorial/blob/master/scipy_gaussian_kernel.ipynb and https://github.com/mycarta/2D_FFT_filter_tutorial/blob/master/speed_up_convolution.ipynb], working with noisier, more challenging data and 3D seismic, interactivity with widgets, stacking of time slices.
 
-2021.This was a busy project at the [TRANSFORM 2021 Hackathon](https://github.com/softwareunderground/transform-2021-hackathon/discussions) project ([discussion here](https://github.com/softwareunderground/transform-2021-hackathon/discussions/9)); **MORE DETAILS COMING SOON**
+2021 and beyond. This was one of the projects at the [TRANSFORM 2021 Hackathon](https://github.com/softwareunderground/transform-2021-hackathon/discussions) project ([discussion here](https://github.com/softwareunderground/transform-2021-hackathon/discussions/9)); **MORE DETAILS COMING SOON**
 
 
