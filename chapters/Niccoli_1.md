@@ -24,6 +24,7 @@ The shape of the sigmoid is controlled by the equation in line 02 using two para
 The Jupyter notebook `Sigmoid_function_experiments.ipynb` demonstrates the effects of varying the parameters `c` and `w` in different ways. It is available at https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_function_experiments.ipynb.
 
 The full app prototype, built using the interactive tools from the IpyWidgets module, is available in the Jupyter notebook `Sigmoid_app_static_new.ipynb` (https://github.com/mycarta/Sigmoid_app/blob/master/Sigmoid_app_static_new.ipynb). A screen capture is shown in Figure 1. (Note that in this notebook, the parameter `c` is held fixed at a value of 5.)
+** N.B. This paragraph will be slightly updated. Adding use of `ipympl` to this notebook will greatly speed up re-plotting of seismic as parameter is changed interactively (refer to: https://github.com/mycarta/Sigmoid_app/issues/1) and it is worth mentioning.
 
 _Figure 1 – Sigmoid grayscale app prototype._
 (https://github.com/mycarta/52things/blob/master/figures/Niccoli_1_Figure1.png)
