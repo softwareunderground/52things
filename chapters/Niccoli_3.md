@@ -27,7 +27,8 @@ __Step 5.__ Do some extra work. Go further, improve the plots or add interactivi
 
 __Step 6.__ Pay it forward. Share your results. More than that, do it with a permissive license, ideally a Creative Commons Attribution (CC-BY). In my case, I am clearly identifying the original figure as copyrighted material, reused with permission, and my figure and the notebooks as CC-BY, which allows others to distribute, remix, adapt, and build upon the original work, even commercially, as long as proper credit be is given for the original creation.
 
-In the end, have fun with it. For me, it was a wonderful experience, and empowering. To quote from Matt Hall’s slides (how should I properly reference them ? https://agilescientific.com/blog/2011/3/25/geo-floss.html): “...now I can read an article in Geophysics, or The Leading Edge, and - assuming the authors reveal their methods openly - I can try them out immediately on my own data. I can improvise, tweak and improve. This is powerful: Now I can test ideas on the fly… I am free!”
+In the end, have fun with it. For me, it was a wonderful experience, and empowering. To quote from Matt Hall (2021): “...now I can read an article in Geophysics, or The Leading Edge, and - assuming the authors reveal their methods openly - I can try them out immediately on my own data. I can improvise, tweak and improve. This is powerful: Now I can test ideas on the fly… I am free!”
 
 __Reference__
 Froner, B., Purves, S., Lowell, J., and Henderson, J. (2013). Perception of visual information: The role of colour in seismic interpretation. First Break, 31(4), 29-34. doi: 10.3997/1365-2397.2013010.
+Hall, Matt (2021) Geo Floss. Blog post at https://agilescientific.com/blog/2011/3/25/geo-floss.html. Quote in slide 24.
